@@ -18,7 +18,7 @@
               <p style="text-align:center">
                 <name>Christoffer Löffler</name>
               </p>
-              <p>I am a PhD student at <a href="https://www.mad.tf.fau.de/">MaD Lab</a> 
+              <p>I am a PhD student at <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn Eskofier</a>'s <a href="https://www.mad.tf.fau.de/">MaD Lab</a> 
 			  and <a href="http://iis.fraunhofer.de/">Fraunhofer IIS </a> where I work on machine learning for time series data.
               </p>
               <p>
@@ -27,7 +27,7 @@
 				<a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/tech/redfir.html">complex event processing</a>, and large scale
 				<a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/holodeck.html">virtual reality</a>. 
 				I did my Bachelors and Masters at <a href="https://www.ps.tf.fau.de/">Friedrich-Alexander University Erlangen-Nürnberg (FAU)</a>, 
-				where I was advised by <a href="http://www.cmutschler.de">Christopher Mutschler</a>.
+				where I was advised by <a href="http://www.cmutschler.de">Christopher Mutschler</a>, back then researching at <a href="https://www.ps.tf.fau.de/person/philippsen/">Michael Philippsen</a>'s Programming Systems lab.
               </p>
               <p style="text-align:center">
                 <a href="mailto:christoffer.loeffler@fau.de">Email</a> &nbsp/&nbsp
@@ -57,6 +57,47 @@
           </tr>
         </tbody></table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+
+		  <tr onmouseout="iale_stop()" onmouseover="iale_start()" bgcolor="#ffffd0">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='iale_image'>
+                  <img src='images/iale_results.png' width="160"></div>
+                <img src='images/iale_pipeline.png' width="160">
+              </div>
+              <script type="text/javascript">
+                function iale_start() {
+                  document.getElementById('iale_image').style.opacity = "1";
+                }
+
+                function iale_stop() {
+                  document.getElementById('iale_image').style.opacity = "0";
+                }
+                iale_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>IALE: Imitating Active Learner Ensembles</papertitle>
+              <br>
+              <strong>Christoffer Löffler</strong>, 
+			  <a href="https://de.linkedin.com/in/karthik-ayyalasomayajula-37925683">Karthik Ayyalasomayajula</a>,
+			  <a href="https://ieeexplore.ieee.org/author/37086514439">Sascha Riechel</a>,
+              <a href="https://www.cmutschler.de">Christopher Mutschler</a>
+              <br>
+        <em>Preprint</em>, 2020  
+              <br>
+				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
+				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
+				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
+				<a href="https://github.com/crispchris/iale"> code </a> /
+				<a href="#">pdf</a>
+              <p></p>
+              <p> We propose an imitation learning approach that learns a policy for active learning from an ensemble of deep active learners.</p>
+            </td>
+          </tr> 
+
+
 
 
 
