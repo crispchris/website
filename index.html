@@ -58,6 +58,45 @@
         </tbody></table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+            <tr onmouseout="emc2_stop()" onmouseover="emc2_start()"><!-- bgcolor="#ffffd0">-->
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='emc2_image'>
+                  <img src='images/emc2_two.png' width="160"></div>
+                <img src='images/emc2_one.svg' width="160">
+              </div>
+              <script type="text/javascript">
+                function emc2_start() {
+                  document.getElementById('emc2_image').style.opacity = "1";
+                }
+
+                function emc2_stop() {
+                  document.getElementById('emc2_image').style.opacity = "0";
+                }
+                emc2_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Recipes for Post-training Quantization of Deep Neural Networks</papertitle>
+              <br>
+              <a href="https://de.linkedin.com/in/ashutosh-mishra-9b0b3520">Ashutosh Mishra</a>,
+              <strong>Christoffer Löffler</strong>, 
+              <a href="https://www.researchgate.net/profile/Axel_Plinge">Axel Plinge</a>
+              <br>
+        <em>EMC^2: Workshop on Energy Efficient Machine Learning and Cognitive Computing</em>, 2020  
+              <br>
+				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
+				<!--<a href="data/cvpr2020.bib">bibtex</a> / -->
+				<!--<a href="https://github.com/crispchris/iale"> code </a> / -->
+				<!--<a href="https://arxiv.org/abs/2007.04637">arXiv</a> / -->
+                <!--<a href="https://arxiv.org/pdf/2007.04637.pdf">pdf</a> -->
+				<a href="https://iis.fraunhofer.de/tooltracking">project</a> 
+              <p></p>
+              <p>We show that post-training quantization (done greedily) benefits from an optimal global bit-width and evaluate this on VGG, ResNet, UNet and our tool tracking FCN.</p>
+            </td>
+          </tr> 
+
+
 
             <tr onmouseout="ismar20_stop()" onmouseover="ismar20_start()"><!-- bgcolor="#ffffd0">-->
             <td style="padding:20px;width:25%;vertical-align:middle">
