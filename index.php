@@ -102,7 +102,7 @@ tist_stop()
 	<em>ACM Transactions on Intelligent Systems and Technology, Special Issue on Intelligent Trajectory Data Analytics</em>.
 	      <br>
 				<a href="http://dx.doi.org/10.1145/3465057"> doi: 10.1145/3465057 </a> / 
-		<!--<a href="https://www.emc2-ai.org/assets/docs/virtual-20/emc2-virtual20-paper-8.pdf">pdf</a> / -->
+				<a href="./pdfs/2022_acm_tist_deep_siamese.pdf">pdf</a> / 
 				<a href="https://www.scs.fraunhofer.de/en/focus-projects/ada-center/ai-tracking-data.html">project</a> 
 	      <p></p>
 	      <p>We enable interactive search in unordered sets of trajectories, with a focus on team sports.</p>
