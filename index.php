@@ -70,6 +70,92 @@
 
 
 
+
+
+
+
+		  <tr onmouseout="dont_stop()" onmouseover="dont_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='dont_image'>
+                  <img src='images/dont_wrong.png' width="160"></div>
+                <img src='images/dont_get.png' width="160">
+              </div>
+              <script type="text/javascript">
+                function dont_start() {
+                  document.getElementById('dont_image').style.opacity = "1";
+                }
+
+                function dont_stop() {
+                  document.getElementById('dont_image').style.opacity = "0";
+                }
+                dont_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Don't Get Me Wrong: How to apply Deep Visual Interpretations to Time Series</papertitle>
+              <br>
+              <strong>Christoffer Löffler</strong>,
+			  <a href="https://www.researchgate.net/profile/Wei-Cheng-Lai-2">Wei-Cheng Lai</a>,
+              <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn M. Eskofier</a>,			  
+			  <a href="https://www.mad.tf.fau.de/person/dario-zanca/">Dario Zanca</a>,
+			  <a href="https://www.linkedin.com/in/lukas-schmidt-41a94395/">Lukas Schmidt</a>,
+              <a href="https://www.cmutschler.de">Christopher Mutschler</a>
+              <br>
+        <em>under review</em>
+              <br>
+				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
+				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
+				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
+				<a href="https://github.com/crispchris/saliency"> code </a> /
+				<a href="https://arxiv.org/abs/2203.07861"> preprint </a>
+				<!--<a href="https://jmlr.org/papers/v23/21-0387.html"> pdf </a> -->
+              <p></p>
+              <p>A framework of six orthogonal metrics for gradient- or perturbation-based post-hoc visual interpretation methods. Its designed for time series classification and segmentation tasks.
+			  </p>
+            </td>
+          </tr> 
+
+
+		  <tr onmouseout="iale_stop()" onmouseover="iale_start()" bgcolor="#ffffd0">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='iale_image'>
+                  <img src='images/iale_results.png' width="160"></div>
+                <img src='images/iale_pipeline.png' width="160">
+              </div>
+              <script type="text/javascript">
+                function iale_start() {
+                  document.getElementById('iale_image').style.opacity = "1";
+                }
+
+                function iale_stop() {
+                  document.getElementById('iale_image').style.opacity = "0";
+                }
+                iale_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>IALE: Imitating Active Learner Ensembles</papertitle>
+              <br>
+              <strong>Christoffer Löffler</strong>,
+              <a href="https://www.cmutschler.de">Christopher Mutschler</a>
+              <br>
+        <em>accepted, not yet published</em> <!-- 23 (2022) 1-29</em> -->
+              <br>
+				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
+				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
+				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
+				<a href="https://github.com/crispchris/iale"> code </a> 
+				<!--<a href="https://jmlr.org/papers/v23/21-0387.html"> pdf </a> -->
+              <p></p>
+              <p> We propose an imitation learning approach that learns a policy for active learning from an ensemble of deep active learners.</p>
+            </td>
+          </tr> 
+
+
+
+
 	    <tr onmouseout="tist_stop()" onmouseover="tist_start()" bgcolor="#ffffd0">
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
@@ -101,9 +187,9 @@ tist_stop()
 	      <br>
 	<em>ACM Transactions on Intelligent Systems and Technology, Special Issue on Intelligent Trajectory Data Analytics</em>.
 	      <br>
-				<a href="http://dx.doi.org/10.1145/3465057"> doi: 10.1145/3465057 </a> / 
 				<a href="./pdfs/2022_acm_tist_deep_siamese.pdf">pdf</a> / 
-				<a href="https://www.scs.fraunhofer.de/en/focus-projects/ada-center/ai-tracking-data.html">project</a> 
+				<a href="https://www.scs.fraunhofer.de/en/focus-projects/ada-center/ai-tracking-data.html">project</a> /
+				<a href="http://dx.doi.org/10.1145/3465057"> DOI: 10.1145/3465057 </a> 
 	      <p></p>
 	      <p>We enable interactive search in unordered sets of trajectories, with a focus on team sports.</p>
 	    </td>
@@ -186,56 +272,19 @@ ismar20_stop()
 				<!--<a href="data/cvpr2020.bib">bibtex</a> / -->
 				<!--<a href="https://github.com/crispchris/iale"> code </a> / -->
 				<!--<a href="https://arxiv.org/abs/2007.04637">arXiv</a> / -->
-				<a href="https://conferences.computer.org/ismarpub/pdfs/ISMAR-Adjunct2020-oeaeGMMVNyEhQbN5gfdgr/767500a129/767500a129.pdf">pdf</a> / 
-				<a href="https://iis.fraunhofer.de/tooltracking">project</a> 
+				<a href="https://iis.fraunhofer.de/tooltracking">project</a> / 
+				<a href="http://doi.org/10.1109/ISMAR-Adjunct51615.2020.00046">DOI: 10.1109/ISMAR-Adjunct51615.2020.00046</a>
+
 	      <p></p>
 	      <p>We combine inertial sensors, mounted on work tools, with AR-headsets to enrich modern assistance systems with a sense of process quality, powered by machine learning.</p>
 	    </td>
 	  </tr> 
 
 
-		  <tr onmouseout="iale_stop()" onmouseover="iale_start()" bgcolor="#ffffd0">
-	    <td style="padding:20px;width:25%;vertical-align:middle">
-	      <div class="one">
-		<div class="two" id='iale_image'>
-		  <img src='images/iale_results.png' width="160"></div>
-		<img src='images/iale_pipeline.png' width="160">
-	      </div>
-<script type="text/javascript">
-function iale_start() {
-	document.getElementById('iale_image').style.opacity = "1";
-}
-
-function iale_stop() {
-	document.getElementById('iale_image').style.opacity = "0";
-}
-iale_stop()
-	</script>
-	    </td>
-	    <td style="padding:20px;width:75%;vertical-align:middle">
-		<papertitle>IALE: Imitating Active Learner Ensembles</papertitle>
-	      <br>
-	      <strong>Christoffer Löffler</strong>,
-	      <a href="https://www.cmutschler.de">Christopher Mutschler</a>
-	      <br>
-	<em>Preprint</em>, 2020  
-	      <br>
-				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
-				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
-				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
-				<a href="https://github.com/crispchris/iale"> code </a> /
-				<a href="https://arxiv.org/abs/2007.04637">arXiv</a> /
-		<a href="https://arxiv.org/pdf/2007.04637.pdf">pdf</a>
-	      <p></p>
-	      <p> We propose an imitation learning approach that learns a policy for active learning from an ensemble of deep active learners.</p>
-	    </td>
-	  </tr> 
 
 
 
-
-
-		  <tr onmouseout="demo_stop()" onmouseover="demo_start()" bgcolor="#ffffd0">
+		  <tr onmouseout="demo_stop()" onmouseover="demo_start()">
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='demo_image'>
@@ -274,7 +323,9 @@ demo_stop()
 				<a href="https://slideslive.com/38932435/automated-quality-assurance-for-handheld-tools-via-embedded-classification-and-automl">video presentation</a> / 
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
 				<a href="https://iis.fraunhofer.de/tooltracking">project</a> / 
-				<a href="https://bitbucket.org/ghentdatascience/ecmlpkdd20-papers/raw/master/Demo/sub_1329.pdf">pdf</a>               <p></p>
+				<a href="https://bitbucket.org/ghentdatascience/ecmlpkdd20-papers/raw/master/Demo/sub_1329.pdf">pdf</a>  /
+				<a href="http://doi.org/10.1007/978-3-030-67670-4_33">DOI: 10.1007/978-3-030-67670-4_33</a>
+				             <p></p>
 	      <p>We describe an AutoML system for our custom hardware and classify multivariate data using deep and shallow methods.</p>
 	    </td>
 	  </tr> 
@@ -313,8 +364,11 @@ vipr_stop()
 	      <br>
 				<?php  $paperid="16801210167294318901";  include 'citation.php'; ?> 
 				<a href="https://youtu.be/ZCTxPJPCfF0?t=20577">video</a> / 
+				
+								<a href="http://openaccess.thecvf.com/content_CVPRW_2020/papers/w3/Ott_ViPR_Visual-Odometry-Aided_Pose_Regression_for_6DoF_Camera_Localization_CVPRW_2020_paper.pdf">pdf</a> / 
+				<a href="https://doi.ieeecomputersociety.org/10.1109/CVPRW50498.2020.00029">DOI: 10.1109/CVPRW50498.2020.00029 </a>
 				<!--<a href="data/cvpr2020.bib">bibtex</a> / -->
-				<a href="http://openaccess.thecvf.com/content_CVPRW_2020/papers/w3/Ott_ViPR_Visual-Odometry-Aided_Pose_Regression_for_6DoF_Camera_Localization_CVPRW_2020_paper.pdf">pdf</a>
+
 	      <p></p>
 	      <p>Learning to fuse absolute poses (6 degrees of freedom) with optical flow (e.g., FlowNet) to improve a mobile agent's self positioning.</p>
 	    </td>
@@ -353,7 +407,9 @@ hmd_stop()
 				<?php  $paperid="8163049789733013846";  include 'citation.php'; ?> 
 				<!--<a href="https://youtu.be/ZCTxPJPCfF0?t=20577">video</a> / 
 				<a href="data/cvpr2020.bib">bibtex</a> / -->
-				<a href="https://www.researchgate.net/profile/Tobias_Feigl3/publication/340047854_Localization_Limitations_of_ARCore_ARKit_and_Hololens_in_Dynamic_Large-scale_Industry_Environments/links/5ed0f4dd45851529451b89ec/Localization-Limitations-of-ARCore-ARKit-and-Hololens-in-Dynamic-Large-scale-Industry-Environments.pdf">pdf</a>
+				<a href="https://www.researchgate.net/profile/Tobias_Feigl3/publication/340047854_Localization_Limitations_of_ARCore_ARKit_and_Hololens_in_Dynamic_Large-scale_Industry_Environments/links/5ed0f4dd45851529451b89ec/Localization-Limitations-of-ARCore-ARKit-and-Hololens-in-Dynamic-Large-scale-Industry-Environments.pdf">pdf</a> / 
+			<a href="http://doi.org/10.5220/0008989903070318">DOI: 10.5220/0008989903070318 </a> 
+				
 	      <p></p>
 	      <p>An evaluation of the big AR systems for real use-cases.</p>
 	    </td>
@@ -390,7 +446,8 @@ cnnlok_stop()
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
 				<a href="https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/opt.html">project</a> / 
 				<a href="https://www.iis.fraunhofer.de/de/ff/lv/lok/tech/opt1/warehouse.html">warehouse dataset</a> / 
-				<a href="https://www.researchgate.net/profile/Christopher_Mutschler/publication/328702558_Evaluation_Criteria_for_Inside-Out_Indoor_Positioning_Systems_Based_on_Machine_Learning/links/5bdca647a6fdcc3a8db8c7c5/Evaluation-Criteria-for-Inside-Out-Indoor-Positioning-Systems-Based-on-Machine-Learning.pdf">pdf</a>
+				<a href="https://www.researchgate.net/profile/Christopher_Mutschler/publication/328702558_Evaluation_Criteria_for_Inside-Out_Indoor_Positioning_Systems_Based_on_Machine_Learning/links/5bdca647a6fdcc3a8db8c7c5/Evaluation-Criteria-for-Inside-Out-Indoor-Positioning-Systems-Based-on-Machine-Learning.pdf">pdf</a> /
+				<a href="http://doi.org/10.1109/IPIN.2018.8533862">DOI: 10.1109/IPIN.2018.8533862</a>
 	      <p></p>
 	      <p>Using reference positioning systems, we record a multi-camera dataset with exact labels and propose criteria for evaluating indoor positioning.</p>
 	    </td>
@@ -425,7 +482,8 @@ occ_stop()
 	<em>IEEE 15th Workshop on Positioning, Navigation and Communications (WPNC)</em>, 2018  
 	      <br>
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
-				<a href="https://www.researchgate.net/profile/Christopher_Mutschler/publication/328702463_Optical_Camera_Communication_for_Active_Marker_Identification_in_Camera-based_Positioning_Systems/links/5bdca59f92851c6b27a1a7fb/Optical-Camera-Communication-for-Active-Marker-Identification-in-Camera-based-Positioning-Systems.pdf">pdf</a>
+				<a href="https://www.researchgate.net/profile/Christopher_Mutschler/publication/328702463_Optical_Camera_Communication_for_Active_Marker_Identification_in_Camera-based_Positioning_Systems/links/5bdca59f92851c6b27a1a7fb/Optical-Camera-Communication-for-Active-Marker-Identification-in-Camera-based-Positioning-Systems.pdf">pdf</a> /
+				<a href="http://doi.org/10.1109/WPNC.2018.8555846">DOI: 10.1109/WPNC.2018.8555846</a>
 	      <p></p>
 	      <p>How to build a cheap but reliable optical positioning system with Raspberry Pi with active LED markers and continuously identify them.</p>
 	    </td>
@@ -433,7 +491,7 @@ occ_stop()
 
 
 
-		  <tr onmouseout="soc_stop()" onmouseover="soc_start()">
+		  <tr onmouseout="soc_stop()" onmouseover="soc_start()" bgcolor="#ffffd0">
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='soc_image'>
@@ -463,13 +521,14 @@ soc_stop()
 	      <br>
 <?php  $paperid="4195906656696761508";  include 'citation.php'; ?> 
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
-				<a href="https://dl.acm.org/doi/pdf/10.1145/2675743.2776767">pdf</a>
+				<a href="https://dl.acm.org/doi/pdf/10.1145/2675743.2776767">pdf</a> / 
+				<a href="https://doi.org/10.1145/2675743.2776767">DOI: 10.1145/2675743.2776767</a>
 	      <p></p>
 	      <p>Event-Based Systems (EBS) can efficiently analyze large streams of sensor data in near-realtime. But they struggle with noise or incompleteness that is seen in the unprecedented amount of data generated by the Internet of Things</p>
 	    </td>
 	  </tr> 
 
-		  <tr onmouseout="hmm_stop()" onmouseover="hmm_start()">
+		  <tr onmouseout="hmm_stop()" onmouseover="hmm_start()" bgcolor="#ffffd0">
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='hmm_image'>
@@ -499,14 +558,15 @@ hmm_stop()
 	      <br>
 				<?php  $paperid="5676470276273029461";  include 'citation.php'; ?> 
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
-				<a href="https://dl.acm.org/doi/pdf/10.1145/2611286.2611330">pdf</a>
+				<a href="https://dl.acm.org/doi/pdf/10.1145/2611286.2611330">pdf</a> / 
+				<a href="https://doi.org/10.1145/2611286.2611330">DOI: 10.1145/2611286.2611330 </a>
 	      <p></p>
 	      <p>We've won the DEBS 2014 Grand Challenge with our hidden Markov model approach.</p>
 	    </td>
 	  </tr> 
 
 
-		  <tr onmouseout="simu_stop()" onmouseover="simu_start()">
+		  <tr onmouseout="simu_stop()" onmouseover="simu_start()" bgcolor="#ffffd0">
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='simu_image'>
@@ -535,7 +595,8 @@ simu_stop()
 	      <br>
 				<?php  $paperid="3556026464382987583";  include 'citation.php'; ?> 
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
-				<a href="https://www.researchgate.net/profile/Christoffer_Loeffler/publication/269098904_Simulating_the_Energy_Management_on_Smartphones_Using_Hybrid_Modeling_Techniques/links/5b7d4ade299bf1d5a71bd885/Simulating-the-Energy-Management-on-Smartphones-Using-Hybrid-Modeling-Techniques.pdf">pdf</a>
+				<a href="https://www.researchgate.net/profile/Christoffer_Loeffler/publication/269098904_Simulating_the_Energy_Management_on_Smartphones_Using_Hybrid_Modeling_Techniques/links/5b7d4ade299bf1d5a71bd885/Simulating-the-Energy-Management-on-Smartphones-Using-Hybrid-Modeling-Techniques.pdf">pdf</a> / 
+				<a href="http://doi.org/10.1007/978-3-319-05359-2_15"> DOI: 10.1007/978-3-319-05359-2_15</a>
 	      <p></p>
 	      <p>We model a smartphone playing back music and its energy management.</p>
 	    </td>
@@ -570,7 +631,8 @@ ahs_stop()
 			  <a href="https://www.ps.tf.fau.de/person/philippsen/">Michael Philippsen</a>
 	      <br>
 				<?php  $paperid="8559668149762888570";  include 'citation.php'; ?> 
-				<a href="https://faui20a.informatik.uni-erlangen.de/EN/publication/download/AHS2013.pdf">pdf</a>
+				<a href="https://faui20a.informatik.uni-erlangen.de/EN/publication/download/AHS2013.pdf">pdf</a> / 
+				<a href="http://doi.org/10.1109/AHS.2013.6604223">DOI: 10.1109/AHS.2013.6604223</a>
 	      <p></p>
 	      <p>When running a distributed low-latency event processing system, you may want to optimize latency - heuristically.</p>
 	    </td>
