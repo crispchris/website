@@ -65,6 +65,47 @@
 
 
 
+		  <tr onmouseout="dont_stop()" onmouseover="dont_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='dont_image'>
+                  <img src='images/dont_wrong.png' width="160"></div>
+                <img src='images/dont_get.png' width="160">
+              </div>
+              <script type="text/javascript">
+                function dont_start() {
+                  document.getElementById('dont_image').style.opacity = "1";
+                }
+
+                function dont_stop() {
+                  document.getElementById('dont_image').style.opacity = "0";
+                }
+                dont_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Don't Get Me Wrong: How to apply Deep Visual Interpretations to Time Series</papertitle>
+              <br>
+              <strong>Christoffer Löffler</strong>,
+			  <a href="https://www.researchgate.net/profile/Wei-Cheng-Lai-2">Wei-Cheng Lai</a>,
+              <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn M. Eskofier</a>,			  
+			  <a href="https://www.mad.tf.fau.de/person/dario-zanca/">Dario Zanca</a>,
+			  <a href="https://www.linkedin.com/in/lukas-schmidt-41a94395/">Lukas Schmidt</a>,
+              <a href="https://www.cmutschler.de">Christopher Mutschler</a>
+              <br>
+        <em>under review</em>
+              <br>
+				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
+				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
+				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
+				<a href="https://github.com/crispchris/saliency"> code </a> /
+				<a href="https://arxiv.org/abs/2203.07861"> pre print </a>
+				<!--<a href="https://jmlr.org/papers/v23/21-0387.html"> pdf </a> -->
+              <p></p>
+              <p>A framework of six orthogonal metrics for gradient- or perturbation-based post-hoc visual interpretation methods. Its designed for time series classification and segmentation tasks.
+			  </p>
+            </td>
+          </tr> 
 
 
 		  <tr onmouseout="iale_stop()" onmouseover="iale_start()" bgcolor="#ffffd0">
@@ -91,13 +132,13 @@
               <strong>Christoffer Löffler</strong>,
               <a href="https://www.cmutschler.de">Christopher Mutschler</a>
               <br>
-        <em>Journal of Machine Learning Research 23 (2022) 1-29</em> 
+        <em>accepted, not yet published</em> <!-- 23 (2022) 1-29</em> -->
               <br>
 				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
 				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
-				<a href="https://github.com/crispchris/iale"> code </a> /
-				<a href="https://jmlr.org/papers/v23/21-0387.html"> pdf </a> 
+				<a href="https://github.com/crispchris/iale"> code </a> 
+				<!--<a href="https://jmlr.org/papers/v23/21-0387.html"> pdf </a> -->
               <p></p>
               <p> We propose an imitation learning approach that learns a policy for active learning from an ensemble of deep active learners.</p>
             </td>
@@ -225,7 +266,8 @@
 				<!--<a href="https://github.com/crispchris/iale"> code </a> / -->
 				<!--<a href="https://arxiv.org/abs/2007.04637">arXiv</a> / -->
                 		<a href="https://conferences.computer.org/ismarpub/pdfs/ISMAR-Adjunct2020-oeaeGMMVNyEhQbN5gfdgr/767500a129/767500a129.pdf">pdf</a> / 
-				<a href="https://iis.fraunhofer.de/tooltracking">project</a> 
+				<a href="https://iis.fraunhofer.de/tooltracking">project</a> / 
+				<a href="https://doi.org/10.1109/ISMAR-Adjunct51615.2020.00046 ">doi 10.1109/ISMAR-Adjunct51615.2020.00046</a> 
               <p></p>
               <p>We combine inertial sensors, mounted on work tools, with AR-headsets to enrich modern assistance systems with a sense of process quality, powered by machine learning.</p>
             </td>
@@ -273,7 +315,8 @@
                 <a href="https://slideslive.com/38932435/automated-quality-assurance-for-handheld-tools-via-embedded-classification-and-automl">video presentation</a> / 
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
 				<a href="https://iis.fraunhofer.de/tooltracking">project</a> / 
-				<a href="https://bitbucket.org/ghentdatascience/ecmlpkdd20-papers/raw/master/Demo/sub_1329.pdf">pdf</a>
+				<a href="https://bitbucket.org/ghentdatascience/ecmlpkdd20-papers/raw/master/Demo/sub_1329.pdf">pdf</a> / 
+				<a href="http://dx.doi.org/10.1007/978-3-030-67670-4_33">doi 10.1007/978-3-030-67670-4_33</a> 
               <p></p>
               <p>We describe an AutoML system for our custom hardware and classify multivariate data using deep and shallow methods.</p>
             </td>
@@ -430,7 +473,7 @@
 		  
 		  
 		  
-		  <tr onmouseout="soc_stop()" onmouseover="soc_start()">
+		  <tr onmouseout="soc_stop()" onmouseover="soc_start()" bgcolor="#ffffd0">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='soc_image'>
@@ -465,7 +508,7 @@
             </td>
           </tr> 
 		  
-		  <tr onmouseout="hmm_stop()" onmouseover="hmm_start()">
+		  <tr onmouseout="hmm_stop()" onmouseover="hmm_start()" bgcolor="#ffffd0">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='hmm_image'>
@@ -501,7 +544,7 @@
           </tr> 
 		  
 		  
-		  <tr onmouseout="simu_stop()" onmouseover="simu_start()">
+		  <tr onmouseout="simu_stop()" onmouseover="simu_start()" bgcolor="#ffffd0">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='simu_image'>
