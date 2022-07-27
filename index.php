@@ -72,6 +72,48 @@
 
 
 
+		  <tr onmouseout="ordinal_stop()" onmouseover="ordinal_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='ordinal_image'>
+                  <img src='images/ordinal_consistency.png' width="160"></div>
+                <img src='images/ordinal_intro.png' width="160">
+              </div>
+              <script type="text/javascript">
+                function ordinal_start() {
+                  document.getElementById('ordinal_image').style.opacity = "1";
+                }
+
+                function ordinal_stop() {
+                  document.getElementById('ordinal_image').style.opacity = "0";
+                }
+                ordinal_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Active Learning of Ordinal Embeddings: A User Study on Football Data</papertitle>
+              <br>
+              <strong>Christoffer Löffler</strong>,
+			  <a href="https://kionfallah.com/">Kion Fallah</a>,
+              <a href="https://siplab.gatech.edu/people.html">Stefano Fenu</a>,			  
+			  <a href="https://www.mad.tf.fau.de/person/dario-zanca/">Dario Zanca</a>,
+			  <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Bjoern Eskofier</a>,
+			  <a href="https://siplab.gatech.edu/rozell.html">Christopher J. Rozell</a>,
+              <a href="https://www.cmutschler.de">Christopher Mutschler</a>
+              <br>
+        <em>under review, preprint available , 07/2022</em>
+              <br>
+				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
+				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
+				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
+				<!--<a href="https://github.com/crispchris/saliency"> code </a> / -->
+				<a href="https://arxiv.org/abs/2207.12710"> preprint</a>
+				<!--<a href="https://jmlr.org/papers/v23/21-0387.html"> pdf </a> -->
+              <p></p>
+              <p> This work uses deep metric learning and active learning to learn humans' innate similarity functions from few annotations. 
+			  </p>
+            </td>
+          </tr> 
 
 
 		  <tr onmouseout="dont_stop()" onmouseover="dont_start()">
