@@ -144,7 +144,7 @@
 			  <a href="https://www.linkedin.com/in/lukas-schmidt-41a94395/">Lukas Schmidt</a>,
               <a href="https://www.cmutschler.de">Christopher Mutschler</a>
               <br>
-        <em>under review</em>
+        <em>under review, preprint available, 03/2022</em>
               <br>
 				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
@@ -183,7 +183,7 @@
               <strong>Christoffer Löffler</strong>,
               <a href="https://www.cmutschler.de">Christopher Mutschler</a>
               <br>
-        <em>Journal of Machine Learning Research 23 (2022) 1-29</em> <!-- 23 (2022) 1-29</em> -->
+        <em>Journal of Machine Learning Research 23, 02/2022</em> <!-- 23 (2022) 1-29</em> -->
               <br>
 				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
@@ -227,7 +227,7 @@ tist_stop()
 	      <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn M. Eskofier</a>,			  
 	      <a href="https://www.cmutschler.de">Christopher Mutschler</a>
 	      <br>
-	<em>ACM Transactions on Intelligent Systems and Technology, Special Issue on Intelligent Trajectory Data Analytics</em>.
+        <em>ACM Transactions on Intelligent Systems and Technology, Special Issue on Intelligent Trajectory Data Analytics, 02/2022</em>.
 	      <br>
 				<a href="./pdfs/2022_acm_tist_deep_siamese.pdf">pdf</a> / 
 				<a href="https://www.scs.fraunhofer.de/en/focus-projects/ada-center/ai-tracking-data.html">project</a> /
