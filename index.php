@@ -61,7 +61,7 @@
 
 </heading>
 	      <p>
-		I'm interested in machine learning with few labeled data (like active learning) and building <a href="https://www.scs.fraunhofer.de/en/focus-projects/ada-center/ai-tracking-data.html">interactive systems</a> for <a href="https://embeddif.ai/">real-world uses</a>.
+		I'm interested in machine learning with few labeled data (like active learning) and building <a href="https://www.scs.fraunhofer.de/en/focus-projects/ada-center/ai-tracking-data.html">interactive systems</a> for the <a href="https://embeddif.ai/">real-world</a>.
 	      </p>
 	    </td>
 	  </tr>
