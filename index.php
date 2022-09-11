@@ -229,6 +229,7 @@ tist_stop()
 	      <br>
         <em>ACM Transactions on Intelligent Systems and Technology, Special Issue on Intelligent Trajectory Data Analytics, 02/2022</em>.
 	      <br>
+				<?php  $paperid="1616035621316005166";  include 'citation.php'; ?> 
 				<a href="./pdfs/2022_acm_tist_deep_siamese.pdf">pdf</a> / 
 				<a href="https://www.scs.fraunhofer.de/en/focus-projects/ada-center/ai-tracking-data.html">project</a> /
 				<a href="http://dx.doi.org/10.1145/3465057"> DOI: 10.1145/3465057 </a> 
