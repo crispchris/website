@@ -72,6 +72,49 @@
 
 
 
+		  <tr onmouseout="ialenips_stop()" onmouseover="ialenips_start()" bgcolor="#ffffd0">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='ialenips_image'>
+                  <img src='images/iale_results.png' width="160"></div>
+                <img src='images/IALE_thumbnail.png' width="160">
+              </div>
+              <script type="text/javascript">
+                function ialenips_start() {
+                  document.getElementById('ialenips_image').style.opacity = "1";
+                }
+
+                function ialenips_stop() {
+                  document.getElementById('ialenips_image').style.opacity = "0";
+                }
+                ialenips_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>IALE: Imitating Active Learner Ensembles</papertitle>
+              <br>
+              <strong>Christoffer Löffler</strong>,
+              <a href="https://www.cmutschler.de">Christopher Mutschler</a>
+              <br>
+        <em>Journal Track @ Neural Information Processing Systems (NeurIPS), New Orleans, LA, 11/2022</em> <!-- 23 (2022) 1-29</em> -->
+              <br>
+				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
+				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
+				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
+				<a href="https://github.com/crispchris/iale"> code </a> /  
+				<a href="https://www.jmlr.org/papers/volume23/21-0387/21-0387.pdf"> pdf </a> / 
+				<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/8efb100a295c0c690931222ff4467bb8.png"> poster</a> / 
+				<a href="https://neurips.cc/virtual/2022/poster/56122"> video </a>
+              <p></p>
+              <p> We propose an imitation learning approach that learns a policy for active learning from an ensemble of deep active learners.</p>
+            </td>
+          </tr> 
+
+
+
+
+
+
 		  <tr onmouseout="ordinal_stop()" onmouseover="ordinal_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
