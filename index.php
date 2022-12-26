@@ -14,9 +14,9 @@
 <?php  $lang="en"; $userid="bIaHh6gAAAAJ"; $pagesize="100"; include './curl.php'; ?>
 
     <div class="topnav" style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-      <a class="active" href="#Research">Research</a>
-      <a href="#Teaching">Teaching</a>
-      <a href="https://christoffers.notion.site/Chris-Chile-Notizen-b6338540d0a048ebaf4009dbe1323539">Blog</a>
+      <a class="active" href="#Research">Research</a> &nbsp/&nbsp
+      <a href="#Teaching">Teaching</a> &nbsp/&nbsp
+      <a href="https://christoffers.notion.site/Chris-Chile-Notizen-b6338540d0a048ebaf4009dbe1323539">Blog</a> &nbsp/&nbsp
       <a href="#CV">CV</a>
     </div>
 
