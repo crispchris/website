@@ -31,10 +31,10 @@
 		<heading id="CV">Christoffer Löffler</heading>
 	      </p>
 	      <p>I am a PhD student at <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn Eskofier</a>'s <a href="https://www.mad.tf.fau.de/">MaD Lab</a>
-			  and <a href="http://iis.fraunhofer.de/">Fraunhofer IIS </a> where I work on machine learning for time series data in the <a href="https://www.iis.fraunhofer.de/en/profil/zukunftsinitiativen/adacenter.html"> ADA Lovelace Center</a>.
+			  and an alumni of <a href="http://iis.fraunhofer.de/">Fraunhofer IIS </a> where I worked on machine learning for time series data in the <a href="https://www.iis.fraunhofer.de/en/profil/zukunftsinitiativen/adacenter.html"> ADA Lovelace Center</a>.
 	      </p>
 	      <p>
-		At Fraunhofer I've worked on
+		At Fraunhofer I've also worked on
 				<a href="https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/opt.html">optical positioning</a>,
 				<a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/redfir.html">complex event processing</a>, and large scale
 				<a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/holodeck.html">virtual reality</a>.
