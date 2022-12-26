@@ -6,30 +6,39 @@
 
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
   <link rel="icon" type="image/png" href="images/seal_icon.png">
+  
 </head>
 
 <body>
 <!-- Include the PHP magic from: https://www.meas.ncsu.edu/sealevel/google/howto.php -->
 <?php  $lang="en"; $userid="bIaHh6gAAAAJ"; $pagesize="100"; include './curl.php'; ?>
 
+    <div class="topnav" style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+      <a class="active" href="#Research">Research</a>
+      <a href="#Teaching">Teaching</a>
+      <a href="https://christoffers.notion.site/Chris-Chile-Notizen-b6338540d0a048ebaf4009dbe1323539">Blog</a>
+      <a href="#CV">CV</a>
+    </div>
+
   <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
     <tr style="padding:0px">
       <td style="padding:0px">
 	<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-	  <tr style="padding:0px">
+	  <tr style="padding:0px;text-align:center;">
 	    <td style="padding:2.5%;width:63%;vertical-align:middle">
 	      <p style="text-align:center">
-		<name>Christoffer Löffler</name>
+
+		<heading id="CV">Christoffer Löffler</heading>
 	      </p>
-	      <p>I am a PhD student at <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn Eskofier</a>'s <a href="https://www.mad.tf.fau.de/">MaD Lab</a> 
+	      <p>I am a PhD student at <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn Eskofier</a>'s <a href="https://www.mad.tf.fau.de/">MaD Lab</a>
 			  and <a href="http://iis.fraunhofer.de/">Fraunhofer IIS </a> where I work on machine learning for time series data in the <a href="https://www.iis.fraunhofer.de/en/profil/zukunftsinitiativen/adacenter.html"> ADA Lovelace Center</a>.
 	      </p>
 	      <p>
-		At Fraunhofer I've worked on 
+		At Fraunhofer I've worked on
 				<a href="https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/opt.html">optical positioning</a>,
 				<a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/redfir.html">complex event processing</a>, and large scale
-				<a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/holodeck.html">virtual reality</a>. 
-				I did my Bachelors and Masters at <a href="https://www.ps.tf.fau.de/">Friedrich-Alexander University Erlangen-Nürnberg (FAU)</a>, 
+				<a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/holodeck.html">virtual reality</a>.
+				I did my Bachelors and Masters at <a href="https://www.ps.tf.fau.de/">Friedrich-Alexander University Erlangen-Nürnberg (FAU)</a>,
 				where I was advised by <a href="http://www.cmutschler.de">Christopher Mutschler</a>, back then researching at <a href="https://www.ps.tf.fau.de/person/philippsen/">Michael Philippsen</a>'s Programming Systems lab. These collaborations led to a Dijkstra number of four and an Erdös number of five!
 	      </p>
 	      <p style="text-align:center">
@@ -37,29 +46,27 @@
 				<a href="https://www.mad.tf.fau.de/person/lfl/">@MaD Lab</a> &nbsp/&nbsp
 		<!--<a href="data/No-CV.pdf">CV</a> &nbsp/&nbsp
 		<a href="data/JonBarron-bio.txt">Biography</a> &nbsp/&nbsp-->
-<?php  $userid="bIaHh6gAAAAJ"; include 'total_citations.php'; ?> 
+<?php  $userid="bIaHh6gAAAAJ"; include 'total_citations.php'; ?>
  &nbsp/&nbsp
 		<a href="https://www.researchgate.net/profile/Christoffer_Loeffler">ResearchGate</a>  &nbsp/&nbsp
 		<a href="https://orcid.org/0000-0003-1834-8323">ORCID</a> &nbsp/&nbsp
-		<a href="https://www.facebook.com/christoffer.andrea">Facebook</a> &nbsp/&nbsp
+		<!--<a href="https://www.facebook.com/christoffer.andrea">Facebook</a> &nbsp/&nbsp-->
 		<a href="https://github.com/crispchris">Github</a>  &nbsp/&nbsp
 		<a href="https://twitter.com/ChristofferLoe1">Twitter</a>  &nbsp/&nbsp
 		<a href="https://www.linkedin.com/in/christoffer-löffler-714097150">LinkedIn</a>  &nbsp/&nbsp
 		<a href="https://www.youtube.com/channel/UCNNNsaZU4Fzglr27DB0Pocg">Youtube</a>
-	      </p>
+        </p>
 
 	    </td>
 	    <td style="padding:2.5%;width:40%;max-width:40%">
-	      <a href="images/Loeffler_Christoffer-314x470.jpg"><img style="width:100%;max-width:100%" alt="profile photo" src="images/Loeffler_Christoffer-314x470.jpg" class="hoverZoomLink"></a>
+	      <a href="images/Loeffler_Christoffer-314x470.jpg"><img style="width:90%;max-width:90%" alt="profile photo" src="images/Loeffler_Christoffer-314x470.jpg" class="hoverZoomLink"></a>
 	    </td>
 	  </tr>
 	</tbody></table>
 	<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 	    <tr>
 	    <td style="padding:20px;width:100%;vertical-align:middle">
-	      <heading>Research
-
-</heading>
+	      <heading id="Research">Research</heading>
 	      <p>
 		I'm interested in machine learning with few labeled data (like active learning) and building <a href="https://www.scs.fraunhofer.de/en/focus-projects/ada-center/ai-tracking-data.html">interactive systems</a> for the <a href="https://embeddif.ai/">real-world</a>.
 	      </p>
@@ -838,7 +845,7 @@ google_stop()
 	<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
 	  <tr>
 	    <td>
-	      <heading>Teaching</heading>
+	      <heading id="Teaching">Teaching</heading>
 	    </td>
 	  </tr>
 	</tbody></table>
