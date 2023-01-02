@@ -12,14 +12,6 @@
 <body>
 <!-- Include the PHP magic from: https://www.meas.ncsu.edu/sealevel/google/howto.php -->
 <?php  $lang="en"; $userid="bIaHh6gAAAAJ"; $pagesize="100"; include './curl.php'; ?>
-
-    <div class="topnav" style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-      <a class="active" href="#Research">Research</a> &nbsp/&nbsp
-      <a href="#Teaching">Teaching</a> &nbsp/&nbsp
-      <a href="https://christoffers.notion.site/Chris-Chile-Notizen-b6338540d0a048ebaf4009dbe1323539">Blog</a> &nbsp/&nbsp
-      <a href="#CV">CV</a>
-    </div>
-
   <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
     <tr style="padding:0px">
       <td style="padding:0px">
@@ -54,7 +46,8 @@
 		<a href="https://github.com/crispchris">Github</a>  &nbsp/&nbsp
 		<a href="https://twitter.com/ChristofferLoe1">Twitter</a>  &nbsp/&nbsp
 		<a href="https://www.linkedin.com/in/christoffer-löffler-714097150">LinkedIn</a>  &nbsp/&nbsp
-		<a href="https://www.youtube.com/channel/UCNNNsaZU4Fzglr27DB0Pocg">Youtube</a>
+		<a href="https://www.youtube.com/channel/UCNNNsaZU4Fzglr27DB0Pocg">Youtube</a>  &nbsp/&nbsp
+      		<a href="https://christoffers.notion.site/Chris-Chile-Notizen-b6338540d0a048ebaf4009dbe1323539">Blog</a>
         </p>
 
 	    </td>
