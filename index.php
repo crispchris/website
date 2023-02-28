@@ -47,6 +47,7 @@
 		<a href="https://twitter.com/ChristofferLoe1">Twitter</a>  &nbsp/&nbsp
 		<a href="https://www.linkedin.com/in/christoffer-löffler-714097150">LinkedIn</a>  &nbsp/&nbsp
 		<a href="https://www.youtube.com/channel/UCNNNsaZU4Fzglr27DB0Pocg">Youtube</a>  &nbsp/&nbsp
+      		<!--<a href="http://www.christofferloeffler.com/blog/Chris-Chile-Notizen-b6338540d0a048ebaf4009dbe1323539">Blog</a>-->
       		<a href="https://christoffers.notion.site/Chris-Chile-Notizen-b6338540d0a048ebaf4009dbe1323539">Blog</a>
         </p>
 
@@ -101,6 +102,7 @@
 				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
 				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
+				<?php  $paperid="6071906203847773282";  include 'citation.php'; ?> / 
 				<a href="https://github.com/crispchris/iale"> code </a> /  
 				<a href="https://www.jmlr.org/papers/volume23/21-0387/21-0387.pdf"> pdf </a> / 
 				<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/8efb100a295c0c690931222ff4467bb8.png"> poster</a> / 
@@ -146,6 +148,7 @@
               <br>
         <em>under review, preprint available , 07/2022</em>
               <br>
+				<?php  $paperid="16503596821383677906";  include 'citation.php'; ?> / 
 				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
 				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
@@ -231,6 +234,7 @@
 				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
 				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
+				<?php  $paperid="6071906203847773282";  include 'citation.php'; ?> / 
 				<a href="https://github.com/crispchris/iale"> code </a> /  
 				<a href="https://www.jmlr.org/papers/volume23/21-0387/21-0387.pdf"> pdf </a> 
               <p></p>
@@ -353,7 +357,7 @@ ismar20_stop()
 	      <br>
 	<em>IEEE Intl. Symposium on Mixed and Augmented Reality (ISMAR), poster track</em>, 2020  
 	      <br>
-				<?php  $paperid="6325531468823391432";  include 'citation.php'; ?> 
+				<?php  $paperid="14918946306010996143";  include 'citation.php'; ?> 
 				<a href="https://youtu.be/x9jL5V5i5SM">video presentation</a> / 
 				<!--<a href="data/cvpr2020.bib">bibtex</a> / -->
 				<!--<a href="https://github.com/crispchris/iale"> code </a> / -->
