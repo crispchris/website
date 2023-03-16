@@ -48,7 +48,8 @@
 		<a href="https://www.linkedin.com/in/christoffer-löffler-714097150">LinkedIn</a>  &nbsp/&nbsp
 		<a href="https://www.youtube.com/channel/UCNNNsaZU4Fzglr27DB0Pocg">Youtube</a>  &nbsp/&nbsp
       		<!--<a href="http://www.christofferloeffler.com/blog/Chris-Chile-Notizen-b6338540d0a048ebaf4009dbe1323539">Blog</a>-->
-      		<a href="https://christoffers.notion.site/Chris-Chile-Notizen-b6338540d0a048ebaf4009dbe1323539">Blog</a>
+      		<!--<a href="https://christoffers.notion.site/Chris-Chile-Notizen-b6338540d0a048ebaf4009dbe1323539">Blog</a>-->
+      		<a href="https://www.christofferloeffler.com/blog/">Blog</a>
         </p>
 
 	    </td>
