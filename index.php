@@ -74,6 +74,59 @@
 
 
 
+
+		  <tr onmouseout="ordinal_stop()" onmouseover="ordinal_start()"  bgcolor="#ffffd0">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='ordinal_image'>
+                  <img src='images/ordinal_consistency.png' width="160"></div>
+                <img src='images/ordinal_intro.png' width="160">
+              </div>
+              <script type="text/javascript">
+                function ordinal_start() {
+                  document.getElementById('ordinal_image').style.opacity = "1";
+                }
+
+                function ordinal_stop() {
+                  document.getElementById('ordinal_image').style.opacity = "0";
+                }
+                ordinal_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Active Learning of Ordinal Embeddings: A User Study on Football Data</papertitle>
+              <br>
+              <strong>Christoffer Löffler</strong>,
+			  <a href="https://kionfallah.com/">Kion Fallah</a>,
+              <a href="https://siplab.gatech.edu/people.html">Stefano Fenu</a>,			  
+			  <a href="https://www.mad.tf.fau.de/person/dario-zanca/">Dario Zanca</a>,
+			  <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Bjoern Eskofier</a>,
+			  <a href="https://siplab.gatech.edu/rozell.html">Christopher J. Rozell</a>,
+              <a href="https://www.cmutschler.de">Christopher Mutschler</a>
+              <br>
+        <em>Transactions on Machine Learning Research (TMLR), to be published in 2023</em>
+              <br>
+				<?php  $paperid="16503596821383677906";  include 'citation.php'; ?> 
+				<a href="https://openreview.net/forum?id=oq3tx5kinu"> pdf</a> / 
+				<a href="https://youtu.be/xqOJAtjxjKE">video</a> /  
+				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
+				<a href="https://www.scs.fraunhofer.de/en/focus-projects/ada-center/ai-tracking-data.html">project</a> /
+				<a href="https://github.com/crispchris/Active-Learning-of-Ordinal-Embeddings"> code </a> 
+
+				<!--<a href="https://jmlr.org/papers/v23/21-0387.html"> pdf </a> -->
+              <p></p>
+              <p> This work improves information retrieval in a football trajectory dataset using deep metric learning and an entropy-based active learning method, and analyzes the effectiveness of sampling heuristics through a user study.
+		 </p>
+            </td>
+          </tr> 
+
+
+
+
+
+
+
+
 		  <tr onmouseout="ialenips_stop()" onmouseover="ialenips_start()" bgcolor="#ffffd0">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -104,63 +157,19 @@
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
 				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
 				<?php  $paperid="6071906203847773282";  include 'citation.php'; ?> 
-				<a href="https://github.com/crispchris/iale"> code </a> /  
 				<a href="https://www.jmlr.org/papers/volume23/21-0387/21-0387.pdf"> pdf </a> / 
 				<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/8efb100a295c0c690931222ff4467bb8.png"> poster</a> / 
-				<a href="https://neurips.cc/virtual/2022/poster/56122"> video </a>
+				<a href="https://neurips.cc/virtual/2022/poster/56122"> video </a> / 
+				<a href="https://github.com/crispchris/iale"> code </a> 
+
               <p></p>
-              <p> We propose an imitation learning approach that learns a policy for active learning from an ensemble of deep active learners.</p>
+              <p> IALE uses imitation learning to select informative data samples in deep active learning by imitating the best-performing expert heuristic, and outperforms state-of-the-art imitation learners and heuristics on well-known image datasets.</p>
             </td>
           </tr> 
 
 
 
 
-
-
-		  <tr onmouseout="ordinal_stop()" onmouseover="ordinal_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id='ordinal_image'>
-                  <img src='images/ordinal_consistency.png' width="160"></div>
-                <img src='images/ordinal_intro.png' width="160">
-              </div>
-              <script type="text/javascript">
-                function ordinal_start() {
-                  document.getElementById('ordinal_image').style.opacity = "1";
-                }
-
-                function ordinal_stop() {
-                  document.getElementById('ordinal_image').style.opacity = "0";
-                }
-                ordinal_stop()
-              </script>
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-                <papertitle>Active Learning of Ordinal Embeddings: A User Study on Football Data</papertitle>
-              <br>
-              <strong>Christoffer Löffler</strong>,
-			  <a href="https://kionfallah.com/">Kion Fallah</a>,
-              <a href="https://siplab.gatech.edu/people.html">Stefano Fenu</a>,			  
-			  <a href="https://www.mad.tf.fau.de/person/dario-zanca/">Dario Zanca</a>,
-			  <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Bjoern Eskofier</a>,
-			  <a href="https://siplab.gatech.edu/rozell.html">Christopher J. Rozell</a>,
-              <a href="https://www.cmutschler.de">Christopher Mutschler</a>
-              <br>
-        <em>under review, preprint available , 07/2022</em>
-              <br>
-				<?php  $paperid="16503596821383677906";  include 'citation.php'; ?> 
-				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
-				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
-				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
-				<!--<a href="https://github.com/crispchris/saliency"> code </a> / -->
-				<a href="https://arxiv.org/abs/2207.12710"> preprint</a>
-				<!--<a href="https://jmlr.org/papers/v23/21-0387.html"> pdf </a> -->
-              <p></p>
-              <p> This work uses deep metric learning and active learning to learn humans' innate similarity functions from few annotations. 
-			  </p>
-            </td>
-          </tr> 
 
 
 		  <tr onmouseout="dont_stop()" onmouseover="dont_start()">
@@ -359,7 +368,7 @@ ismar20_stop()
 	<em>IEEE Intl. Symposium on Mixed and Augmented Reality (ISMAR), poster track</em>, 2020  
 	      <br>
 				<?php  $paperid="14918946306010996143";  include 'citation.php'; ?> 
-				<a href="https://youtu.be/x9jL5V5i5SM">video presentation</a> / 
+				<a href="https://youtu.be/x9jL5V5i5SM">video</a> / 
 				<!--<a href="data/cvpr2020.bib">bibtex</a> / -->
 				<!--<a href="https://github.com/crispchris/iale"> code </a> / -->
 				<!--<a href="https://arxiv.org/abs/2007.04637">arXiv</a> / -->
