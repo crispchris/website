@@ -103,7 +103,7 @@
 				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
 				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
-				<?php  $paperid="6071906203847773282";  include 'citation.php'; ?> / 
+				<?php  $paperid="6071906203847773282";  include 'citation.php'; ?> 
 				<a href="https://github.com/crispchris/iale"> code </a> /  
 				<a href="https://www.jmlr.org/papers/volume23/21-0387/21-0387.pdf"> pdf </a> / 
 				<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/8efb100a295c0c690931222ff4467bb8.png"> poster</a> / 
@@ -149,7 +149,7 @@
               <br>
         <em>under review, preprint available , 07/2022</em>
               <br>
-				<?php  $paperid="16503596821383677906";  include 'citation.php'; ?> / 
+				<?php  $paperid="16503596821383677906";  include 'citation.php'; ?> 
 				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
 				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
@@ -235,7 +235,7 @@
 				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
 				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
-				<?php  $paperid="6071906203847773282";  include 'citation.php'; ?> / 
+				<?php  $paperid="6071906203847773282";  include 'citation.php'; ?> 
 				<a href="https://github.com/crispchris/iale"> code </a> /  
 				<a href="https://www.jmlr.org/papers/volume23/21-0387/21-0387.pdf"> pdf </a> 
               <p></p>
