@@ -104,7 +104,7 @@
 			  <a href="https://siplab.gatech.edu/rozell.html">Christopher J. Rozell</a>,
               <a href="https://www.cmutschler.de">Christopher Mutschler</a>
               <br>
-        <em>Transactions on Machine Learning Research (TMLR), to be published in 2023</em>
+        <em>Transactions on Machine Learning Research (TMLR), 04/2023</em>
               <br>
 				<?php  $paperid="16503596821383677906";  include 'citation.php'; ?> 
 				<a href="https://openreview.net/forum?id=oq3tx5kinu"> pdf</a> / 
