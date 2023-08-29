@@ -1,12 +1,23 @@
 <!DOCTYPE HTML>
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Christoffer Löffler</title>
+<html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title>Christoffer's site</title>
   <meta name="author" content="Christoffer Löffler">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
   <link rel="icon" type="image/png" href="images/seal_icon.png">
-  
+ <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LVY9YELSJV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-LVY9YELSJV');
+  </script>
+
+ 
 </head>
 
 <body>
@@ -31,10 +42,11 @@
 				<a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/redfir.html">complex event processing</a>, and large scale
 				<a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/holodeck.html">virtual reality</a>.
 				I did my Bachelors and Masters at <a href="https://www.ps.tf.fau.de/">Friedrich-Alexander University Erlangen-Nürnberg (FAU)</a>,
-				where I was advised by <a href="http://www.cmutschler.de">Christopher Mutschler</a>, back then researching at <a href="https://www.ps.tf.fau.de/person/philippsen/">Michael Philippsen</a>'s Programming Systems lab. These collaborations led to a Dijkstra number of four and an Erdös number of five!
+				where I was advised by <a href="http://www.cmutschler.de">Christopher Mutschler</a>, back then researching at <a href="https://www.ps.tf.fau.de/person/philippsen/">Michael Philippsen</a>'s Programming Systems lab. These and other collaborations led to a Dijkstra number of four and an Erdös number of <s>five</s>four!
 	      </p>
 	      <p style="text-align:center">
 		<a href="mailto:christoffer.loeffler@fau.de">Email</a> &nbsp/&nbsp
+		<a href="./pdfs/cv.pdf">CV</a> &nbsp/&nbsp
 				<a href="https://www.mad.tf.fau.de/person/lfl/">@MaD Lab</a> &nbsp/&nbsp
 		<!--<a href="data/No-CV.pdf">CV</a> &nbsp/&nbsp
 		<a href="data/JonBarron-bio.txt">Biography</a> &nbsp/&nbsp-->
@@ -106,8 +118,9 @@
               <br>
         <em>Transactions on Machine Learning Research (TMLR), 04/2023</em>
               <br>
-				<?php  $paperid="16503596821383677906";  include 'citation.php'; ?> 
-				<a href="https://openreview.net/forum?id=oq3tx5kinu"> pdf</a> / 
+				<?php  $paperid="16503596821383677906";  include 'citation.php'; ?>  
+				<a href="https://www.christofferloeffler.com/pdfs/297_active_learning_of_ordinal_emb.pdf"> pdf</a> / 
+				<a href="https://openreview.net/forum?id=oq3tx5kinu"> OpenReview</a> / 
 				<a href="https://youtu.be/xqOJAtjxjKE">video</a> /  
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
 				<a href="https://www.scs.fraunhofer.de/en/focus-projects/ada-center/ai-tracking-data.html">project</a> /
@@ -206,7 +219,7 @@
 				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
 				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
 				<a href="https://github.com/crispchris/saliency"> code </a> /
-				<a href="https://arxiv.org/abs/2203.07861"> preprint </a>
+				<a href="https://arxiv.org/abs/2203.07861"> preprint </a>  
 				<!--<a href="https://jmlr.org/papers/v23/21-0387.html"> pdf </a> -->
               <p></p>
               <p>A framework of six orthogonal metrics for gradient- or perturbation-based post-hoc visual interpretation methods. Its designed for time series classification and segmentation tasks.
@@ -547,6 +560,8 @@ cnnlok_stop()
 				<a href="https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/opt.html">project</a> / 
 				<a href="https://www.iis.fraunhofer.de/de/ff/lv/lok/tech/opt1/warehouse.html">warehouse dataset</a> / 
 				<a href="https://www.researchgate.net/profile/Christopher_Mutschler/publication/328702558_Evaluation_Criteria_for_Inside-Out_Indoor_Positioning_Systems_Based_on_Machine_Learning/links/5bdca647a6fdcc3a8db8c7c5/Evaluation-Criteria-for-Inside-Out-Indoor-Positioning-Systems-Based-on-Machine-Learning.pdf">pdf</a> /
+				<a href="./pdfs/esi_poster_v2.pdf">poster</a> / 
+				<a href="./pdfs/ipin_2018_slides.pdf">slides</a> / 
 				<a href="http://doi.org/10.1109/IPIN.2018.8533862">DOI: 10.1109/IPIN.2018.8533862</a>
 	      <p></p>
 	      <p>Using reference positioning systems, we record a multi-camera dataset with exact labels and propose criteria for evaluating indoor positioning.</p>
@@ -740,7 +755,7 @@ ahs_stop()
 
 
 
-
+<!--
 <tr onmouseout="google_stop()" onmouseover="google_start()">
 <td>
 <center>
@@ -766,7 +781,7 @@ google_stop()
 </td>
 
 </tr>
-
+-->
 
 	</tbody></table>
 
@@ -797,11 +812,11 @@ google_stop()
 			<a href="https://www.cmutschler.de">Christopher Mutschler</a>,
 			Marc Faßbinder
 	    <br>
-      <em>Filed 2017-12-11. Published 2020-11-26. Pending.</em>
+      <em>US20200371226A1. Active since 30th of May 2023.</em>
 	    <br>
 			<a href="https://patents.google.com/patent/US20200371226A1/en"> Google Patents </a>
 	    <p></p>
-	    <p>Combination of radar systems with cameras.</p>
+	    <p>Positioning system with combined optical and a radio-based determination of a position of a tracker and a tracker with an active light source.</p>
 	  </td>
 	</tr>
 
@@ -816,11 +831,11 @@ google_stop()
 	      <a href="https://www.cmutschler.de">Christopher Mutschler</a>,
 			  <strong>Christoffer Löffler</strong>
 	      <br>
-	<em>Filed 2012-12-13. Published 2019-04-25. Active.</em>
+	<em>DE102012112253B4. Active on 25th of April 2019, now expired.</em>
 	      <br>
 				<a href="https://patents.google.com/patent/DE102012112253B4/en"> Google Patents </a>
 	      <p></p>
-	      <p>Method for improving the performance of an event-based distributed analysis system.</p>
+	      <p>Method for improving the performance of an event-based distributed analysis system that uses meta heuristics.</p>
 	    </td>
 	  </tr> 
 
@@ -872,7 +887,7 @@ google_stop()
 	    <td width="75%" valign="center">
 
 	      <br>
-	      <a href="https://www.ps.tf.fau.de/ml/">SemML, seminar on machine learning, winter 2015-2021 </a><br>
+	      <a href="https://www.ps.tf.fau.de/ml/">SemML, seminar on machine learning, winter 2015-2022 </a><br>
 			  Seminar Event Processing, summer 2016
 	    </td>
 	  </tr>
