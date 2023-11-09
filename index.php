@@ -7,7 +7,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
-  <link rel="icon" type="image/png" href="images/seal_icon.png">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
  <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-LVY9YELSJV"></script>
   <script>
@@ -50,8 +54,8 @@
 				<a href="https://www.mad.tf.fau.de/person/lfl/">@MaD Lab</a> &nbsp/&nbsp
 		<!--<a href="data/No-CV.pdf">CV</a> &nbsp/&nbsp
 		<a href="data/JonBarron-bio.txt">Biography</a> &nbsp/&nbsp-->
-<?php  $userid="bIaHh6gAAAAJ"; include 'total_citations.php'; ?>
- &nbsp/&nbsp
+		<!--?php  $userid="bIaHh6gAAAAJ"; include 'total_citations.php'; ?> &nbsp/&nbsp -->
+		<a href="https://scholar.google.com/citations?user=bIaHh6gAAAAJ&hl=en">Google Scholar</a>  &nbsp/&nbsp
 		<a href="https://www.researchgate.net/profile/Christoffer_Loeffler">ResearchGate</a>  &nbsp/&nbsp
 		<a href="https://orcid.org/0000-0003-1834-8323">ORCID</a> &nbsp/&nbsp
 		<!--<a href="https://www.facebook.com/christoffer.andrea">Facebook</a> &nbsp/&nbsp-->
@@ -66,7 +70,7 @@
 
 	    </td>
 	    <td style="padding:2.5%;width:40%;max-width:40%">
-	      <a href="images/Loeffler_Christoffer-314x470.jpg"><img style="width:90%;max-width:90%" alt="profile photo" src="images/Loeffler_Christoffer-314x470.jpg" class="hoverZoomLink"></a>
+	      <a href="images/Loeffler_Christoffer-314x470.jpg"><img loading="lazy" style="width:90%;max-width:90%" alt="profile photo" src="images/Loeffler_Christoffer-314x470.jpg" class="hoverZoomLink"></a>
 	    </td>
 	  </tr>
 	</tbody></table>
@@ -91,8 +95,8 @@
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='ordinal_image'>
-                  <img src='images/ordinal_consistency.png' width="160"></div>
-                <img src='images/ordinal_intro.png' width="160">
+                  <img loading="lazy" src='images/ordinal_consistency.png' width="160"></div>
+                <img loading="lazy" src='images/ordinal_intro.png' width="160">
               </div>
               <script type="text/javascript">
                 function ordinal_start() {
@@ -119,6 +123,7 @@
         <em>Transactions on Machine Learning Research (TMLR), 04/2023</em>
               <br>
 				<?php  $paperid="16503596821383677906";  include 'citation.php'; ?>  
+				<a href="https://tmlr.infinite-conf.org/paper_pages/oq3tx5kinu.html">TMLR infinite conf</a> / 
 				<a href="https://www.christofferloeffler.com/pdfs/297_active_learning_of_ordinal_emb.pdf"> pdf</a> / 
 				<a href="https://openreview.net/forum?id=oq3tx5kinu"> OpenReview</a> / 
 				<a href="https://youtu.be/xqOJAtjxjKE">video</a> /  
@@ -144,8 +149,8 @@
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='ialenips_image'>
-                  <img src='images/iale_results.png' width="160"></div>
-                <img src='images/IALE_thumbnail.png' width="160">
+                  <img loading="lazy" src='images/iale_results.png' width="160"></div>
+                <img loading="lazy" src='images/IALE_thumbnail.png' width="160">
               </div>
               <script type="text/javascript">
                 function ialenips_start() {
@@ -189,8 +194,8 @@
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='dont_image'>
-                  <img src='images/dont_wrong.png' width="160"></div>
-                <img src='images/dont_get.png' width="160">
+                  <img loading="lazy" src='images/dont_wrong.png' width="160"></div>
+                <img loading="lazy" src='images/dont_get.png' width="160">
               </div>
               <script type="text/javascript">
                 function dont_start() {
@@ -232,8 +237,8 @@
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='iale_image'>
-                  <img src='images/iale_results.png' width="160"></div>
-                <img src='images/iale_pipeline.png' width="160">
+                  <img loading="lazy" src='images/iale_results.png' width="160"></div>
+                <img loading="lazy" src='images/iale_pipeline.png' width="160">
               </div>
               <script type="text/javascript">
                 function iale_start() {
@@ -272,8 +277,8 @@
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='tist_image'>
-		  <img src='images/tist_scene_a.png' width="160"></div>
-		<img src='images/tist_scene_b.png' width="160">
+		  <img loading="lazy" src='images/tist_scene_a.png' width="160"></div>
+		<img loading="lazy" src='images/tist_scene_b.png' width="160">
 	      </div>
 <script type="text/javascript">
 function tist_start() {
@@ -314,8 +319,8 @@ tist_stop()
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='emc2_image'>
-		  <img src='images/emc2_two.png' width="160"></div>
-		<img src='images/emc2_one.svg' width="160">
+		  <img loading="lazy" src='images/emc2_two.png' width="160"></div>
+		<img loading="lazy" src='images/emc2_one.svg' width="160">
 	      </div>
 <script type="text/javascript">
 function emc2_start() {
@@ -356,8 +361,8 @@ emc2_stop()
 	    <td style="padding:20px;width:25%;vertical-align:middle" bgcolor="#ffffd0">
 	      <div class="one">
 		<div class="two" id='ismar20_image'>
-		  <img src='images/ismar20_one.png' width="160"></div>
-		<img src='images/ismar20_two.png' width="160">
+		  <img loading="lazy" src='images/ismar20_one.png' width="160"></div>
+		<img loading="lazy" src='images/ismar20_two.png' width="160">
 	      </div>
 <script type="text/javascript">
 function ismar20_start() {
@@ -401,8 +406,8 @@ ismar20_stop()
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='demo_image'>
-		  <img src='images/ecml_pipeline.png' width="160"></div>
-		<img src='images/ecml_data.png' width="160">
+		  <img loading="lazy" src='images/ecml_pipeline.png' width="160"></div>
+		<img loading="lazy" src='images/ecml_data.png' width="160">
 	      </div>
 <script type="text/javascript">
 function demo_start() {
@@ -449,8 +454,8 @@ demo_stop()
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='vipr_image'>
-		  <img src='images/vipr_pics.png' width="160"></div>
-		<img src='images/vipr_pose.png' width="160">
+		  <img loading="lazy" src='images/vipr_pics.png' width="160"></div>
+		<img loading="lazy" src='images/vipr_pose.png' width="160">
 	      </div>
 <script type="text/javascript">
 function vipr_start() {
@@ -491,8 +496,8 @@ vipr_stop()
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='hmd_image'>
-		  <img src='images/grapp_smol.png' width="160"></div>
-		<img src='images/grapp_big.png' width="160">
+		  <img loading="lazy" src='images/grapp_smol.png' width="160"></div>
+		<img loading="lazy" src='images/grapp_big.png' width="160">
 	      </div>
 <script type="text/javascript">
 function hmd_start() {
@@ -532,8 +537,8 @@ hmd_stop()
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='cnnlok_image'>
-		  <img src='images/cnnlok_area.png' width="160"></div>
-		<img src='images/cnnlok_results.png' width="160">
+		  <img loading="lazy" src='images/cnnlok_area.png' width="160"></div>
+		<img loading="lazy" src='images/cnnlok_results.png' width="160">
 	      </div>
 <script type="text/javascript">
 function cnnlok_start() {
@@ -572,8 +577,8 @@ cnnlok_stop()
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='occ_image'>
-		  <img src='images/occ_digital.png' width="160"></div>
-		<img src='images/occ_blue.png' width="160">
+		  <img loading="lazy" src='images/occ_digital.png' width="160"></div>
+		<img loading="lazy" src='images/occ_blue.png' width="160">
 	      </div>
 <script type="text/javascript">
 function occ_start() {
@@ -610,8 +615,8 @@ occ_stop()
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='soc_image'>
-		  <img src='images/soccer_hierarchie.png' width="160"></div>
-		<img src='images/soccer_players.png' width="160">
+		  <img loading="lazy" src='images/soccer_hierarchie.png' width="160"></div>
+		<img loading="lazy" src='images/soccer_players.png' width="160">
 	      </div>
 <script type="text/javascript">
 function soc_start() {
@@ -647,8 +652,8 @@ soc_stop()
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='hmm_image'>
-		  <img src='images/hmm_on.png' width="160"></div>
-		<img src='images/hmm_eventcore.png' width="160">
+		  <img loading="lazy" src='images/hmm_on.png' width="160"></div>
+		<img loading="lazy" src='images/hmm_eventcore.png' width="160">
 	      </div>
 <script type="text/javascript">
 function hmm_start() {
@@ -685,8 +690,8 @@ hmm_stop()
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='simu_image'>
-		  <img src='images/simu_big.png' width="160"></div>
-		<img src='images/simu_battery.png' width="160">
+		  <img loading="lazy" src='images/simu_big.png' width="160"></div>
+		<img loading="lazy" src='images/simu_battery.png' width="160">
 	      </div>
 <script type="text/javascript">
 function simu_start() {
@@ -722,8 +727,8 @@ simu_stop()
 	    <td style="padding:20px;width:25%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='ahs_image'>
-		  <img src='images/ahs_alloc.png' width="160"></div>
-		<img src='images/ahs_network.png' width="160">
+		  <img loading="lazy" src='images/ahs_alloc.png' width="160"></div>
+		<img loading="lazy" src='images/ahs_network.png' width="160">
 	      </div>
 <script type="text/javascript">
 function ahs_start() {
@@ -765,8 +770,8 @@ ahs_stop()
 <td style="padding:20px;width:50%;vertical-align:middle">
 	      <div class="one">
 		<div class="two" id='google_image'>
-		  <img src='images/tomorrows_statistics.jpg' width="480"></div>
-		<img src='images/statistics.jpg' width="480">
+		  <img loading="lazy" src='images/tomorrows_statistics.jpg' width="480"></div>
+		<img loading="lazy" src='images/statistics.jpg' width="480">
 	      </div>
 <script type="text/javascript">
 function google_start() {
@@ -800,7 +805,7 @@ google_stop()
 
 
 	  <td style="padding:20px;width:25%;vertical-align:middle">
-	     <img src='images/patent1.png' width="160">
+	     <img loading="lazy" src='images/patent1.png' width="160">
 	  </td>
 	  <td style="padding:20px;width:75%;vertical-align:middle">
 	      <papertitle> Method to determine a present position of an object, positioning system, tracker and computer program </papertitle>
@@ -823,7 +828,7 @@ google_stop()
 
 
 	    <td style="padding:20px;width:25%;vertical-align:middle">
-	       <img src='images/patent0.png' width="160">
+	       <img loading="lazy" src='images/patent0.png' width="160">
 	    </td>
 	    <td style="padding:20px;width:75%;vertical-align:middle">
 		<papertitle>Apparatus, method and computer program for improving the performance of an event-based distributed analysis system</papertitle>
@@ -873,7 +878,7 @@ google_stop()
 	</tbody></table>
 	<table width="100%" align="center" border="0" cellpadding="20"><tbody>
 	  <tr>
-	    <td style="padding:20px;width:25%;vertical-align:middle"><img width="100%" src="images/cropped-logo_mad.png"></td>
+	    <td style="padding:20px;width:25%;vertical-align:middle"><img loading="lazy" width="100%" src="images/cropped-logo_mad.png"></td>
 	    <td width="75%" valign="center">
 	      <a href="https://www.mad.tf.fau.de/teaching/ss19-drl/"> DRL seminar, deep reinforcement learning, summer 2019</a>
 	     <br>
@@ -883,7 +888,7 @@ google_stop()
 	    </td>
 	  </tr>
 			    <tr>
-	    <td style="padding:20px;width:25%;vertical-align:middle"><center><img width="50%" src="images/ps.svg"></td>
+	    <td style="padding:20px;width:25%;vertical-align:middle"><center><img loading="lazy" width="50%" src="images/ps.svg"></td>
 	    <td width="75%" valign="center">
 
 	      <br>
