@@ -37,13 +37,13 @@
 
 		<heading id="CV">Christoffer Löffler</heading>
 	      </p>
-	      <p>I am a PhD student at <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn Eskofier</a>'s <a href="https://www.mad.tf.fau.de/">MaD Lab</a>
-			  and an alumni of <a href="http://iis.fraunhofer.de/">Fraunhofer IIS </a> where I worked on machine learning for time series data in the <a href="https://www.iis.fraunhofer.de/en/profil/zukunftsinitiativen/adacenter.html"> ADA Lovelace Center</a>.
+	      <p>I am an alumni of <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn Eskofier</a>'s <a href="https://www.mad.tf.fau.de/">MaD Lab</a>, where I received my Dr.-Ing.,
+			  and of <a href="http://iis.fraunhofer.de/">Fraunhofer IIS </a>, where I worked on machine learning for time series data in the <a href="https://www.iis.fraunhofer.de/en/profil/zukunftsinitiativen/adacenter.html"> ADA Lovelace Center</a>.
 	      </p>
 	      <p>
 		At Fraunhofer I've also worked on
 				<a href="https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/opt.html">optical positioning</a>,
-				<a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/redfir.html">complex event processing</a>, and large scale
+				<a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/redfir.html">complex event processing</a>, and large-scale
 				<a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/holodeck.html">virtual reality</a>.
 				I did my Bachelors and Masters at <a href="https://www.ps.tf.fau.de/">Friedrich-Alexander University Erlangen-Nürnberg (FAU)</a>,
 				where I was advised by <a href="http://www.cmutschler.de">Christopher Mutschler</a>, back then researching at <a href="https://www.ps.tf.fau.de/person/philippsen/">Michael Philippsen</a>'s Programming Systems lab. These and other collaborations led to a Dijkstra number of four and an Erdös number of <s>five</s>four!
@@ -79,7 +79,7 @@
 	    <td style="padding:20px;width:100%;vertical-align:middle">
 	      <heading id="Research">Research</heading>
 	      <p>
-		I'm interested in machine learning with few labeled data (like active learning) and building <a href="https://www.scs.fraunhofer.de/en/focus-projects/ada-center/ai-tracking-data.html">interactive systems</a> for the <a href="https://embeddif.ai/">real-world</a>.
+		I'm interested in machine learning with few labeled data (like active learning) and building <a href="https://www.scs.fraunhofer.de/en/focus-projects/ada-center/ai-tracking-data.html">interactive systems</a> for the <a href="https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/embeddif-ai.html">real-world</a>.
 	      </p>
 	    </td>
 	  </tr>
@@ -87,6 +87,49 @@
 	<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
 
+
+
+		  <tr onmouseout="dont_stop()" onmouseover="dont_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='dont_image'>
+                  <img loading="lazy" src='images/dont_wrong.png' width="160"></div>
+                <img loading="lazy" src='images/dont_get.png' width="160">
+              </div>
+              <script type="text/javascript">
+                function dont_start() {
+                  document.getElementById('dont_image').style.opacity = "1";
+                }
+
+                function dont_stop() {
+                  document.getElementById('dont_image').style.opacity = "0";
+                }
+                dont_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Don't Get Me Wrong: How to apply Deep Visual Interpretations to Time Series</papertitle>
+              <br>
+              <strong>Christoffer Löffler</strong>,
+			  <a href="https://www.researchgate.net/profile/Wei-Cheng-Lai-2">Wei-Cheng Lai</a>,
+              <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn M. Eskofier</a>,			  
+			  <a href="https://www.mad.tf.fau.de/person/dario-zanca/">Dario Zanca</a>,
+			  <a href="https://www.linkedin.com/in/lukas-schmidt-41a94395/">Lukas Schmidt</a>,
+              <a href="https://www.cmutschler.de">Christopher Mutschler</a>
+              <br>
+        <em>preprint, 09/2023</em>
+              <br>
+				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
+				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
+				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
+				<a href="https://github.com/crispchris/saliency"> code </a> /
+				<a href="https://arxiv.org/abs/2203.07861"> preprint </a>  
+				<!--<a href="https://jmlr.org/papers/v23/21-0387.html"> pdf </a> -->
+              <p></p>
+              <p>A framework of six orthogonal metrics for gradient- or perturbation-based post-hoc visual interpretation methods. Its designed for time series classification and segmentation tasks.
+			  </p>
+            </td>
+          </tr> 
 
 
 
@@ -188,49 +231,6 @@
 
 
 
-
-
-		  <tr onmouseout="dont_stop()" onmouseover="dont_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id='dont_image'>
-                  <img loading="lazy" src='images/dont_wrong.png' width="160"></div>
-                <img loading="lazy" src='images/dont_get.png' width="160">
-              </div>
-              <script type="text/javascript">
-                function dont_start() {
-                  document.getElementById('dont_image').style.opacity = "1";
-                }
-
-                function dont_stop() {
-                  document.getElementById('dont_image').style.opacity = "0";
-                }
-                dont_stop()
-              </script>
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-                <papertitle>Don't Get Me Wrong: How to apply Deep Visual Interpretations to Time Series</papertitle>
-              <br>
-              <strong>Christoffer Löffler</strong>,
-			  <a href="https://www.researchgate.net/profile/Wei-Cheng-Lai-2">Wei-Cheng Lai</a>,
-              <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn M. Eskofier</a>,			  
-			  <a href="https://www.mad.tf.fau.de/person/dario-zanca/">Dario Zanca</a>,
-			  <a href="https://www.linkedin.com/in/lukas-schmidt-41a94395/">Lukas Schmidt</a>,
-              <a href="https://www.cmutschler.de">Christopher Mutschler</a>
-              <br>
-        <em>under review, preprint available, 03/2022</em>
-              <br>
-				<!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
-				<!--<a href="data/cvpr2020.bib">bibtex</a> /-->
-				<!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
-				<a href="https://github.com/crispchris/saliency"> code </a> /
-				<a href="https://arxiv.org/abs/2203.07861"> preprint </a>  
-				<!--<a href="https://jmlr.org/papers/v23/21-0387.html"> pdf </a> -->
-              <p></p>
-              <p>A framework of six orthogonal metrics for gradient- or perturbation-based post-hoc visual interpretation methods. Its designed for time series classification and segmentation tasks.
-			  </p>
-            </td>
-          </tr> 
 
 
 		  <tr onmouseout="iale_stop()" onmouseover="iale_start()" bgcolor="#ffffd0">
