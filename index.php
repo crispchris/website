@@ -38,21 +38,25 @@ gtag('config', 'G-LVY9YELSJV');
     <heading id="CV">Christoffer Löffler</heading>
       </p>
     
-      <p>I am a <i>profesor asociado</i> at the <a href="http://inf.ucv.cl">school of informatics</a> of the Pontificia Universidad Católica de Valparaíso (PUCV) in Chile.
-        
-      <p>Before this, I got my Dr.-Ing. with <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn Eskofier</a>'s 
-<a href="https://www.mad.tf.fau.de/">MaD Lab</a>, and worked at <a href="http://iis.fraunhofer.de/">Fraunhofer IIS</a> in the <a href="https://www.iis.fraunhofer.de/en/profil/zukunftsinitiativen/adacenter.html"> ADA Lovelace Center</a>. 
-        My research is primarily on machine learning with few labeled data (e.g., active learning) and time series data.
-        Besides, I contributed to the fields of <a href="https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/opt.html">optical positioning</a>,
+      <p>I am a <i>profesor asociado</i> at the <a href="http://inf.ucv.cl">school of informatics</a> of the Pontificia Universidad Católica de Valparaíso (PUCV) in Chile.</p>
+
+      <p>
+        My research is on machine learning with few labeled data and broadly on time series.
+        I also contributed to <a href="https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/opt.html">optical positioning</a>,
         <a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/redfir.html">complex event processing</a>, and large-scale
-        <a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/holodeck.html">virtual reality</a>.
-        I did my Bachelors and Masters at <a href="https://www.ps.tf.fau.de/">Friedrich-Alexander University Erlangen-Nürnberg (FAU)</a>,
+        <a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/holodeck.html">virtual reality</a>.</p>
+
+
+      <p>Recently, I got my Dr.-Ing. at <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn Eskofier</a>'s 
+<a href="https://www.mad.tf.fau.de/">MaD Lab</a>, and worked with <a href="http://iis.fraunhofer.de/">Fraunhofer IIS</a> in the <a href="https://www.iis.fraunhofer.de/en/profil/zukunftsinitiativen/adacenter.html"> ADA Lovelace Center</a>. 
+
+      I did my Bachelors and Masters at <a href="https://www.ps.tf.fau.de/">Friedrich-Alexander University Erlangen-Nürnberg (FAU)</a>,
         where I was advised by <a href="http://www.cmutschler.de">Christopher Mutschler</a>, back then researching at <a href="https://www.ps.tf.fau.de/person/philippsen/">Michael Philippsen</a>'s Programming Systems lab. These and other collaborations led to a Dijkstra number of four and an Erdös number of <s>five</s>four!
         </p>
         <p style="text-align:center">
-    <a href="mailto:christoffer.loeffler@fau.de">Email</a> &nbsp/&nbsp
+    <a href="mailto:christoffer.loffler@pucv.cl">Email</a> &nbsp/&nbsp
     <a href="./pdfs/cv.pdf">CV</a> &nbsp/&nbsp
-        <a href="https://www.mad.tf.fau.de/person/lfl/">@MaD Lab</a> &nbsp/&nbsp
+    <!--<a href="https://www.mad.tf.fau.de/person/lfl/">@MaD Lab</a> &nbsp/&nbsp-->
     <!--<a href="data/No-CV.pdf">CV</a> &nbsp/&nbsp
     <a href="data/JonBarron-bio.txt">Biography</a> &nbsp/&nbsp-->
     <!--?php  $userid="bIaHh6gAAAAJ"; include 'total_citations.php'; ?> &nbsp/&nbsp -->
