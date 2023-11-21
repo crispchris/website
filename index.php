@@ -38,7 +38,7 @@
 		<heading id="CV">Christoffer Löffler</heading>
 	      </p>
 	      <p>I am an alumni of <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn Eskofier</a>'s <a href="https://www.mad.tf.fau.de/">MaD Lab</a>, where I received my Dr.-Ing.,
-			  and of <a href="http://iis.fraunhofer.de/">Fraunhofer IIS </a>, where I worked on machine learning for time series data in the <a href="https://www.iis.fraunhofer.de/en/profil/zukunftsinitiativen/adacenter.html"> ADA Lovelace Center</a>.
+			  and of <a href="http://iis.fraunhofer.de/">Fraunhofer IIS</a>, where I worked on machine learning for time series data in the <a href="https://www.iis.fraunhofer.de/en/profil/zukunftsinitiativen/adacenter.html"> ADA Lovelace Center</a>.
 	      </p>
 	      <p>
 		At Fraunhofer I've also worked on
