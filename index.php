@@ -94,6 +94,57 @@ gtag('config', 'G-LVY9YELSJV');
 
 
 
+
+
+
+
+
+      <tr onmouseout="phd_stop()" onmouseover="phd_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='phd_image'>
+                  <img loading="lazy" src='images/phd_start.png' width="160"></div>
+                <img loading="lazy" src='images/phd_stop.png' width="160">
+              </div>
+    <script type="text/javascript">
+    function phd_start() {
+      document.getElementById('phd_image').style.opacity = "1";
+    }
+
+function phd_stop() {
+  document.getElementById('phd_image').style.opacity = "0";
+}
+phd_stop()
+  </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Active Deep Learning of Representations for Similarity Search</papertitle>
+              <br>
+              <strong>Christoffer Löffler</strong>, supervisors <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn M. Eskofier</a> and <a href="https://www.uni-bamberg.de/kogsys/team/schmid-ute/">Ute Schmidt</a>.
+              <br>
+        Dissertation, <em>Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Technische Fakultät </em>	 10/2023.
+              <br>
+        <a href="https://open.fau.de/items/affbff9c-90dd-4862-bcff-a9acfbed27c8"> pdf </a>
+              <p></p>
+              <p>This dissertation provides streamlined information retrieval, cost-effective annotation through Deep Active Learning, 
+and efficient learning of similarity functions. Three key publications contribute to the thesis: a metric learner for enhanced information retrieval, 
+an imitation learning approach (IALE) optimizing Deep Active Learning, and a method combining fine-tuning with active learning, 
+facilitating adaptive similarity search for unstructured data and cost-effective annotation of complex datasets.
+        </p>
+            </td>
+          </tr> 
+
+
+
+
+
+
+
+
+
+
+
+
       <tr onmouseout="dont_stop()" onmouseover="dont_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
