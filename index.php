@@ -124,7 +124,7 @@ phd_stop()
               <br>
         Dissertation, <em>Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Technische Fakultät </em>	 10/2023.
               <br>
-        <a href="https://open.fau.de/items/affbff9c-90dd-4862-bcff-a9acfbed27c8"> pdf </a>
+        <a href="./pdfs/Diss_LoefflerChristoffer.pdf"> pdf </a> / <a href="https://doi.org/10.25593/open-fau-42">DOI: 10.25593/open-fau-42</a>
               <p></p>
               <p>This dissertation provides streamlined information retrieval, cost-effective annotation through Deep Active Learning, 
 and efficient learning of similarity functions. Three key publications contribute to the thesis: a metric learner for enhanced information retrieval, 
