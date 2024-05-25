@@ -933,16 +933,27 @@ google_stop()
     </tr>
   </tbody></table>
   <table width="100%" align="center" border="0" cellpadding="20"><tbody>
+
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle"><img loading="lazy" width="100%" src="images/inf_pucv.png"></td>
+      <td width="75%" valign="center">
+        Lecture "Inteligencia Artificial" (AI), primer semestre 2024
+        <br>
+        Lecture "Aprendizaje Automático" (ML), primer semestre 2024
+      </td>
+    </tr>
+
     <tr>
       <td style="padding:20px;width:25%;vertical-align:middle"><img loading="lazy" width="100%" src="images/cropped-logo_mad.png"></td>
       <td width="75%" valign="center">
-        <a href="https://www.mad.tf.fau.de/teaching/ss19-drl/"> DRL seminar, deep reinforcement learning, summer 2019</a>
-       <br>
-    <a href="https://www.mad.tf.fau.de/teaching/courses/lv_id/41872857&sem=2020w/">Machine Learning for Timeseries (project), winter 2019-2021</a><br>
-    <a href="https://www.tf.fau.de/files/2019/05/04_FAU-TF_MuT_2019.pdf">Girls/Youth and Technology, summer 2019</a><br>
 
+        <a href="https://www.mad.tf.fau.de/teaching/ss19-drl/"> DRL seminar, deep reinforcement learning, summer 2019</a>
+        <br>
+        <a href="https://www.mad.tf.fau.de/teaching/courses/lv_id/41872857&sem=2020w/">Machine Learning for Timeseries (project), winter 2019-2021</a><br>
+        <a href="https://www.tf.fau.de/files/2019/05/04_FAU-TF_MuT_2019.pdf">Girls/Youth and Technology, summer 2019</a><br>
       </td>
     </tr>
+
           <tr>
       <td style="padding:20px;width:25%;vertical-align:middle"><center><img loading="lazy" width="50%" src="images/ps.svg"></td>
       <td width="75%" valign="center">
