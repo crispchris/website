@@ -94,12 +94,115 @@ gtag('config', 'G-LVY9YELSJV');
 
 
 
+      <tr onmouseout="ada_few_stop()" onmouseover="ada_few_start()" >
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='ada_few_image'>
+                  <img loading="lazy" src='images/ada_few_start.png' width="160"></div>
+                <img loading="lazy" src='images/ada_few_stop.png' width="160">
+              </div>
+    <script type="text/javascript">
+      function ada_few_start() {
+      document.getElementById('ada_few_image').style.opacity = "1";
+    }
+
+	  function ada_few_stop() {
+	  document.getElementById('ada_few_image').style.opacity = "0";
+	}
+	ada_few_stop()
+  </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Learning with Limited Labelled Data</papertitle>
+              <br>
+				<strong>Christoffer Löffler</strong>, Rasmus Hvingelby, Jann Goschenhofer
+              <br>
+        		<i>Mutschler, C., Münzenmayer, C., Uhlmann, N., Martin, A. (eds) Unlocking Artificial Intelligence. Springer, Cham. </i>
+              <br>
+        <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-64832-8_4.pdf"> pdf </a> / <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>
+              <p></p>
+              <p>We explore how semi-supervised and active learning address the challenge of training machine learning models with limited labeled data by leveraging unlabeled data and optimizing annotation efforts, while comparing their principles, strengths, and future potential.
+        </p>
+            </td>
+          </tr> 
 
 
 
 
 
-      <tr onmouseout="phd_stop()" onmouseover="phd_start()">
+
+      <tr onmouseout="ada_seq_stop()" onmouseover="ada_seq_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='ada_seq_image'>
+                  <img loading="lazy" src='images/ada_seq_start.png' width="160"></div>
+                <img loading="lazy" src='images/ada_seq_stop.png' width="160">
+              </div>
+    <script type="text/javascript">
+      function ada_seq_start() {
+      document.getElementById('ada_seq_image').style.opacity = "1";
+    }
+
+	  function ada_seq_stop() {
+	  document.getElementById('ada_seq_image').style.opacity = "0";
+	}
+	ada_seq_stop()
+  </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Sequence-based Learning</papertitle>
+              <br>
+				<strong>Christoffer Löffler</strong>, Felix Ott, Jonathan Ott, Maximilian P. Oppelt, Tobias Feigl
+              <br>
+        		<i>Mutschler, C., Münzenmayer, C., Uhlmann, N., Martin, A. (eds) Unlocking Artificial Intelligence. Springer, Cham. </i>
+              <br>
+        <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-64832-8_2.pdf"> pdf </a> / <a href="https://doi.org/10.1007/978-3-031-64832-8_2">DOI: 10.1007/978-3-031-64832-8_2</a>
+              <p></p>
+              <p>We cover various applications, data types, key architectures, and methods such as deep metric learning and time series similarity learning, while also addressing interpretability in terms of safety, fairness, and non-discrimination.
+        </p>
+            </td>
+          </tr> 
+
+
+      <tr onmouseout="biomimetics_stop()" onmouseover="biomimetics_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='biomimetics_image'>
+                  <img loading="lazy" src='images/biomimetics_start.png' width="160"></div>
+                <img loading="lazy" src='images/biomimetics_stop.png' width="160">
+              </div>
+    <script type="text/javascript">
+      function biomimetics_start() {
+      document.getElementById('biomimetics_image').style.opacity = "1";
+    }
+
+	  function biomimetics_stop() {
+	  document.getElementById('biomimetics_image').style.opacity = "0";
+	}
+	biomimetics_stop()
+  </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Autonomous Parameter Balance in Population-Based Approaches: A Self-Adaptive Learning-Based Strategy</papertitle>
+              <br>
+				Emanuel Vega, José Lemus-Romani, Ricardo Soto, Broderick Crawford, <strong>Christoffer Löffler</strong>, Javier Peña, El-Gazhali Talbi
+              <br>
+        		<i>Biomimetics 2024, 9(2), 82; </i>
+              <br>
+        <a href="https://www.mdpi.com/2313-7673/9/2/82/pdf?version=1706666129"> pdf </a> / <a href="https://doi.org/10.3390/biomimetics9020082">DOI: 10.3390/biomimetics9020082</a>
+              <p></p>
+              <p>We augment population-based meta-heuristics with a learning component to bias the exploration direction of the search.
+        </p>
+            </td>
+          </tr> 
+
+
+
+
+
+
+
+      <tr onmouseout="phd_stop()" onmouseover="phd_start()"  bgcolor="#ffffd0">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='phd_image'>
