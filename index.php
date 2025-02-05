@@ -150,7 +150,7 @@ gtag('config', 'G-LVY9YELSJV');
               <br>
 				<strong>Christoffer Löffler</strong>, Rasmus Hvingelby, Jann Goschenhofer
               <br>
-        		<i>Mutschler, C., Münzenmayer, C., Uhlmann, N., Martin, A. (eds) Unlocking Artificial Intelligence. Springer, Cham. </i>
+        		<i>Mutschler, C., Münzenmayer, C., Uhlmann, N., Martin, A. (eds) Unlocking Artificial Intelligence. 2024. Springer, Cham. </i>
               <br>
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-64832-8_4.pdf"> pdf </a> / <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>
               <p></p>
@@ -187,7 +187,7 @@ gtag('config', 'G-LVY9YELSJV');
               <br>
 				<strong>Christoffer Löffler</strong>, Felix Ott, Jonathan Ott, Maximilian P. Oppelt, Tobias Feigl
               <br>
-        		<i>Mutschler, C., Münzenmayer, C., Uhlmann, N., Martin, A. (eds) Unlocking Artificial Intelligence. Springer, Cham. </i>
+        		<i>Mutschler, C., Münzenmayer, C., Uhlmann, N., Martin, A. (eds) Unlocking Artificial Intelligence. 2024. Springer, Cham. </i>
               <br>
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-64832-8_2.pdf"> pdf </a> / <a href="https://doi.org/10.1007/978-3-031-64832-8_2">DOI: 10.1007/978-3-031-64832-8_2</a>
               <p></p>
