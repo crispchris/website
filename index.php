@@ -47,7 +47,7 @@ gtag('config', 'G-LVY9YELSJV');
         <a href="https://www.iis.fraunhofer.de/en/ff/lv/lok/proj/holodeck.html">virtual reality</a>.</p>
 
 
-      <p>Recently, I got my Dr.-Ing. at <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn Eskofier</a>'s 
+      <p>I received my Dr.-Ing. at <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn Eskofier</a>'s 
 <a href="https://www.mad.tf.fau.de/">MaD Lab</a>, while working at <a href="http://iis.fraunhofer.de/">Fraunhofer IIS</a> in the <a href="https://www.iis.fraunhofer.de/en/profil/zukunftsinitiativen/adacenter.html"> ADA Lovelace Center</a> as a senior scientist. 
 
       I also did my Bachelors and Masters at <a href="https://www.ps.tf.fau.de/">Friedrich-Alexander University Erlangen-Nürnberg (FAU)</a>,
