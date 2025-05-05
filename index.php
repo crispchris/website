@@ -144,7 +144,7 @@ gtag('config', 'G-LVY9YELSJV');
   </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
-                <papertitle>Predicting potentially unfair clauses in Chilean terms of services with natural language processing</papertitle>
+                <papertitle>Predicting potentially abusive clauses in Chilean terms of services with natural language processing</papertitle>
               <br>
 				<strong>Christoffer Löffler</strong>, Andrea Martínez Freile, Romás Rey Pizarro
               <br>
