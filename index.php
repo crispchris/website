@@ -148,7 +148,7 @@ gtag('config', 'G-LVY9YELSJV');
               <br>
 				<strong>Christoffer Löffler</strong>, Andrea Martínez Freile, Romás Rey Pizarro
               <br>
-        		<i>Artificial Intelligence and Law. 2025. Springer, Cham. accepted.</i>
+        		<i>Artificial Intelligence and Law. 2025. Springer, Cham.</i>
               <br>
         <a href="https://arxiv.org/abs/2502.00865"> preprint </a> / <a href="https://doi.org/10.1007/s10506-025-09462-w">doi 10.1007/s10506-025-09462-w</a>
               <p></p>
@@ -1107,9 +1107,16 @@ google_stop()
     <tr>
       <td style="padding:20px;width:25%;vertical-align:middle"><img loading="lazy" width="100%" src="images/inf_pucv.png"></td>
       <td width="75%" valign="center">
-        Lecture "Inteligencia Artificial" (AI), primer semestre 2024
+	<u>Pregrado:</u><br>
+        Lecture "Inteligencia Artificial" (AI), since 1st sem. 2024, Informatics and Data Science.
         <br>
-        Lecture "Aprendizaje Automático" (ML), primer semestre 2024
+	Lecture "Aprendizaje Automático 1" (ML1), since 1st sem. 2024, Data Science.
+	<br>
+	Lecture "Aprendizaje Automático 2" (ML2), since 2nd sem. 2024, Data Science.
+	<br>
+	<u>Posgrado / Magíster:</u><br>
+        Lecture "Advances in Deep Learning for Time Series" (ADLTS), 1st trimester 2025, (coop. with <a href="https://www.mad.tf.fau.de/person/dario-zanca/">Dario Zanca</a> and <a href="https://www.mad.tf.fau.de/person/jitin-jami/">Jitin Jami</a> from FAU)
+
       </td>
     </tr>
 
@@ -1117,6 +1124,7 @@ google_stop()
       <td style="padding:20px;width:25%;vertical-align:middle"><img loading="lazy" width="100%" src="images/cropped-logo_mad.png"></td>
       <td width="75%" valign="center">
 
+        Seminar "Advances in Deep Learning for Time Series" (ADLTS), winter 2025, (coop. with <a href="https://www.mad.tf.fau.de/person/dario-zanca/">Dario Zanca</a> and <a href="https://www.mad.tf.fau.de/person/jitin-jami/">Jitin Jami</a>)<br>
         <a href="https://www.mad.tf.fau.de/teaching/ss19-drl/"> DRL seminar, deep reinforcement learning, summer 2019</a>
         <br>
         <a href="https://www.mad.tf.fau.de/teaching/courses/lv_id/41872857&sem=2020w/">Machine Learning for Timeseries (project), winter 2019-2021</a><br>
