@@ -150,7 +150,7 @@ gtag('config', 'G-LVY9YELSJV');
               <br>
         		<i>Artificial Intelligence and Law. 2025. Springer, Cham. accepted.</i>
               <br>
-        <a href="https://arxiv.org/abs/2502.00865"> preprint </a> <!--/ <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
+        <a href="https://arxiv.org/abs/2502.00865"> preprint </a> / <a href="https://doi.org/10.1007/s10506-025-09462-w">doi 10.1007/s10506-025-09462-w</a>
               <p></p>
               <p>We propose a novel legal framework and Spanish-language legal dataset for classifying potentially abusive clauses in Chilean Terms of Service, and predict the clauses using few-shot learning or fine-tuned LLMs.
         </p>
