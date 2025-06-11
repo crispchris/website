@@ -91,6 +91,40 @@ gtag('config', 'G-LVY9YELSJV');
   </tbody></table>
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+
+
+      <tr onmouseout="pruning_stop()" onmouseover="pruning_start()" >
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='pruning_image'>
+                  <img loading="lazy" src='images/pruning_start.png' width="160"></div>
+                <img loading="lazy" src='images/pruning_stop.png' width="160">
+              </div>
+    <script type="text/javascript">
+      function pruning_start() {
+      document.getElementById('pruning_image').style.opacity = "1";
+    }
+
+	  function pruning_stop() {
+	  document.getElementById('pruning_image').style.opacity = "0";
+	}
+	pruning_stop()
+  </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Effective Data Pruning through Score Extrapolation</papertitle>
+              <br>
+				Sebastian Schmidt, Prasanga Dhungel, <strong>Christoffer Löffler</strong>, Björn Nieth, Stephan Günnemann, Leo Schwinn              <br>
+        		<i>2025, preprint</i>
+              <br>
+        <a href="https://arxiv.org/pdf/2506.09010"> preprint </a> <!--/ <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
+              <p></p>
+              <p>We propose an importance score extrapolation framework using k-nearest neighbors and graph neural networks to efficiently predict sample importance from a small data subset, enhancing data pruning without full initial training, demonstrated across multiple datasets and training paradigms.        </p>
+            </td>
+          </tr> 
+
+
+
       <tr onmouseout="metamer_stop()" onmouseover="metamer_start()" >
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
