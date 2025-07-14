@@ -91,7 +91,7 @@ gtag('config', 'G-LVY9YELSJV');
   </tbody></table>
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
-      <tr onmouseout="dont_stop()" onmouseover="dont_start()">
+      <tr onmouseout="dont_stop()" onmouseover="dont_start()" bgcolor="#ffffd0">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='dont_image'>
@@ -200,7 +200,7 @@ dont_stop()
 
 
 
-      <tr onmouseout="law_stop()" onmouseover="law_start()" >
+      <tr onmouseout="law_stop()" onmouseover="law_start()" bgcolor="#ffffd0">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='law_image'>
@@ -645,7 +645,7 @@ ismar20_stop()
         <br>
   <em>IEEE Intl. Symposium on Mixed and Augmented Reality (ISMAR), poster track</em>, 2020  
         <br>
-        <?php  $paperid="14918946306010996143";  include 'citation.php'; ?> 
+        <!--?php  $paperid="14918946306010996143";  include 'citation.php'; ?> -->
         <a href="https://youtu.be/x9jL5V5i5SM">video</a> / 
         <!--<a href="data/cvpr2020.bib">bibtex</a> / -->
         <!--<a href="https://github.com/crispchris/iale"> code </a> / -->
