@@ -119,13 +119,14 @@ dont_stop()
         <a href="https://www.linkedin.com/in/lukas-schmidt-41a94395/">Lukas Schmidt</a>,
               <a href="https://www.cmutschler.de">Christopher Mutschler</a>
               <br>
-        <em>07/2025, preprint. Accepted in Springer Nature "Applied Intelligence".</em>
+        <em>Applied Intelligence. 2025. Springer Nature, Cham.</em>
               <br>
         <!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
         <!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
         <a href="https://github.com/crispchris/saliency"> code </a> /
-        <a href="https://arxiv.org/abs/2203.07861"> preprint </a>  
+        <a href="https://arxiv.org/abs/2203.07861"> preprint </a> / 
+        <a href="https://doi.org/10.1007/s10489-025-06798-3">DOI: 10.1007/s10489-025-06798-3</a> 
         <!--<a href="https://jmlr.org/papers/v23/21-0387.html"> pdf </a> -->
               <p></p>
               <p>A framework of six orthogonal metrics for gradient- or perturbation-based post-hoc visual interpretation methods. Its designed for time series classification and segmentation tasks.
@@ -225,7 +226,7 @@ dont_stop()
               <br>
         		<i>Artificial Intelligence and Law. 2025. Springer, Cham.</i>
               <br>
-        <a href="https://arxiv.org/abs/2502.00865"> preprint </a> / <a href="https://doi.org/10.1007/s10506-025-09462-w">doi 10.1007/s10506-025-09462-w</a>
+        <a href="https://arxiv.org/abs/2502.00865"> preprint </a> / <a href="https://doi.org/10.1007/s10506-025-09462-w">DOI: 10.1007/s10506-025-09462-w</a>
               <p></p>
               <p>We propose a novel legal framework and Spanish-language legal dataset for classifying potentially abusive clauses in Chilean Terms of Service, and predict the clauses using few-shot learning or fine-tuned LLMs.
         </p>
