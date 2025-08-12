@@ -119,7 +119,7 @@ dont_stop()
         <a href="https://www.linkedin.com/in/lukas-schmidt-41a94395/">Lukas Schmidt</a>,
               <a href="https://www.cmutschler.de">Christopher Mutschler</a>
               <br>
-        <em>Applied Intelligence. 2025. Springer Nature, Cham.</em>
+        <em>Applied Intelligence, Volume 25, Article 920, 2025. Springer Nature, Cham.</em>
               <br>
         <!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
