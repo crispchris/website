@@ -37,7 +37,7 @@ gtag('config', 'G-LVY9YELSJV');
 
     <heading id="CV">Christoffer Löffler</heading>
       </p>
-    
+
       <p style="text-align:justify">I am a <i>profesor asociado</i> at the <a href="http://inf.ucv.cl">school of informatics</a> of the Pontificia Universidad Católica de Valparaíso (PUCV) in Chile.</p>
 
       <p style="text-align:justify">
@@ -143,21 +143,21 @@ dont_stop()
                 <img loading="lazy" src='images/pruning_stop.png' width="160">
               </div>
     <script type="text/javascript">
-      function pruning_start() {
+    function pruning_start() {
       document.getElementById('pruning_image').style.opacity = "1";
     }
 
-	  function pruning_stop() {
-	  document.getElementById('pruning_image').style.opacity = "0";
-	}
-	pruning_stop()
+function pruning_stop() {
+  document.getElementById('pruning_image').style.opacity = "0";
+}
+pruning_stop()
   </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
                 <papertitle>Effective Data Pruning through Score Extrapolation</papertitle>
               <br>
-				Sebastian Schmidt, Prasanga Dhungel, <strong>Christoffer Löffler</strong>, Björn Nieth, Stephan Günnemann, Leo Schwinn              <br>
-        		<i>2025, preprint</i>
+        Sebastian Schmidt, Prasanga Dhungel, <strong>Christoffer Löffler</strong>, Björn Nieth, Stephan Günnemann, Leo Schwinn              <br>
+            <i>2025, preprint</i>
               <br>
         <a href="https://arxiv.org/pdf/2506.09010"> preprint </a> <!--/ <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
               <p></p>
@@ -175,22 +175,22 @@ dont_stop()
                 <img loading="lazy" src='images/metamer_stop.png' width="160">
               </div>
     <script type="text/javascript">
-      function metamer_start() {
+    function metamer_start() {
       document.getElementById('metamer_image').style.opacity = "1";
     }
 
-	  function metamer_stop() {
-	  document.getElementById('metamer_image').style.opacity = "0";
-	}
-	metamer_stop()
+function metamer_stop() {
+  document.getElementById('metamer_image').style.opacity = "0";
+}
+metamer_stop()
   </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
                 <papertitle>Understanding Cross-Model Perceptual Invariances Through Ensemble Metamers</papertitle>
               <br>
-				Lukas Böhm, Jonas Leo Müller, <strong>Christoffer Löffler</strong>, Leo Schwinn, Bjoern Eskofier, Dario Zanca 
+        Lukas Böhm, Jonas Leo Müller, <strong>Christoffer Löffler</strong>, Leo Schwinn, Bjoern Eskofier, Dario Zanca 
               <br>
-        		<i>2025, preprint</i>
+            <i>2025, preprint</i>
               <br>
         <a href="https://arxiv.org/abs/2504.01739"> preprint </a> <!--/ <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
               <p></p>
@@ -209,22 +209,22 @@ dont_stop()
                 <img loading="lazy" src='images/law_stop.png' width="160">
               </div>
     <script type="text/javascript">
-      function law_start() {
+    function law_start() {
       document.getElementById('law_image').style.opacity = "1";
     }
 
-	  function law_stop() {
-	  document.getElementById('law_image').style.opacity = "0";
-	}
-	law_stop()
+function law_stop() {
+  document.getElementById('law_image').style.opacity = "0";
+}
+law_stop()
   </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
                 <papertitle>Predicting potentially abusive clauses in Chilean terms of services with natural language processing</papertitle>
               <br>
-				<strong>Christoffer Löffler</strong>, Andrea Martínez Freile, Romás Rey Pizarro
+        <strong>Christoffer Löffler</strong>, Andrea Martínez Freile, Romás Rey Pizarro
               <br>
-        		<i>Artificial Intelligence and Law. 2025. Springer, Cham.</i>
+            <i>Artificial Intelligence and Law. 2025. Springer, Cham.</i>
               <br>
         <a href="https://arxiv.org/abs/2502.00865"> preprint </a> / <a href="https://doi.org/10.1007/s10506-025-09462-w">DOI: 10.1007/s10506-025-09462-w</a>
               <p></p>
@@ -245,22 +245,22 @@ dont_stop()
                 <img loading="lazy" src='images/ada_few_stop.png' width="160">
               </div>
     <script type="text/javascript">
-      function ada_few_start() {
+    function ada_few_start() {
       document.getElementById('ada_few_image').style.opacity = "1";
     }
 
-	  function ada_few_stop() {
-	  document.getElementById('ada_few_image').style.opacity = "0";
-	}
-	ada_few_stop()
+function ada_few_stop() {
+  document.getElementById('ada_few_image').style.opacity = "0";
+}
+ada_few_stop()
   </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
                 <papertitle>Learning with Limited Labelled Data</papertitle>
               <br>
-				<strong>Christoffer Löffler</strong>, Rasmus Hvingelby, Jann Goschenhofer
+        <strong>Christoffer Löffler</strong>, Rasmus Hvingelby, Jann Goschenhofer
               <br>
-        		<i>Mutschler, C., Münzenmayer, C., Uhlmann, N., Martin, A. (eds) Unlocking Artificial Intelligence. 2024. Springer, Cham. </i>
+            <i>Mutschler, C., Münzenmayer, C., Uhlmann, N., Martin, A. (eds) Unlocking Artificial Intelligence. 2024. Springer, Cham. </i>
               <br>
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-64832-8_4.pdf"> pdf </a> / <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>
               <p></p>
@@ -282,22 +282,22 @@ dont_stop()
                 <img loading="lazy" src='images/ada_seq_stop.png' width="160">
               </div>
     <script type="text/javascript">
-      function ada_seq_start() {
+    function ada_seq_start() {
       document.getElementById('ada_seq_image').style.opacity = "1";
     }
 
-	  function ada_seq_stop() {
-	  document.getElementById('ada_seq_image').style.opacity = "0";
-	}
-	ada_seq_stop()
+function ada_seq_stop() {
+  document.getElementById('ada_seq_image').style.opacity = "0";
+}
+ada_seq_stop()
   </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
                 <papertitle>Sequence-based Learning</papertitle>
               <br>
-				<strong>Christoffer Löffler</strong>, Felix Ott, Jonathan Ott, Maximilian P. Oppelt, Tobias Feigl
+        <strong>Christoffer Löffler</strong>, Felix Ott, Jonathan Ott, Maximilian P. Oppelt, Tobias Feigl
               <br>
-        		<i>Mutschler, C., Münzenmayer, C., Uhlmann, N., Martin, A. (eds) Unlocking Artificial Intelligence. 2024. Springer, Cham. </i>
+            <i>Mutschler, C., Münzenmayer, C., Uhlmann, N., Martin, A. (eds) Unlocking Artificial Intelligence. 2024. Springer, Cham. </i>
               <br>
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-64832-8_2.pdf"> pdf </a> / <a href="https://doi.org/10.1007/978-3-031-64832-8_2">DOI: 10.1007/978-3-031-64832-8_2</a>
               <p></p>
@@ -315,22 +315,22 @@ dont_stop()
                 <img loading="lazy" src='images/biomimetics_stop.png' width="160">
               </div>
     <script type="text/javascript">
-      function biomimetics_start() {
+    function biomimetics_start() {
       document.getElementById('biomimetics_image').style.opacity = "1";
     }
 
-	  function biomimetics_stop() {
-	  document.getElementById('biomimetics_image').style.opacity = "0";
-	}
-	biomimetics_stop()
+function biomimetics_stop() {
+  document.getElementById('biomimetics_image').style.opacity = "0";
+}
+biomimetics_stop()
   </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
                 <papertitle>Autonomous Parameter Balance in Population-Based Approaches: A Self-Adaptive Learning-Based Strategy</papertitle>
               <br>
-				Emanuel Vega, José Lemus-Romani, Ricardo Soto, Broderick Crawford, <strong>Christoffer Löffler</strong>, Javier Peña, El-Gazhali Talbi
+        Emanuel Vega, José Lemus-Romani, Ricardo Soto, Broderick Crawford, <strong>Christoffer Löffler</strong>, Javier Peña, El-Gazhali Talbi
               <br>
-        		<i>Biomimetics 2024, 9(2), 82; </i>
+            <i>Biomimetics 2024, 9(2), 82; </i>
               <br>
         <a href="https://www.mdpi.com/2313-7673/9/2/82/pdf?version=1706666129"> pdf </a> / <a href="https://doi.org/10.3390/biomimetics9020082">DOI: 10.3390/biomimetics9020082</a>
               <p></p>
@@ -670,10 +670,10 @@ ismar20_stop()
       <img loading="lazy" src='images/ecml_pipeline.png' width="160"></div>
     <img loading="lazy" src='images/ecml_data.png' width="160">
         </div>
-    <script type="text/javascript">
-    function demo_start() {
-      document.getElementById('demo_image').style.opacity = "1";
-    }
+        <script type="text/javascript">
+        function demo_start() {
+          document.getElementById('demo_image').style.opacity = "1";
+        }
 
 function demo_stop() {
   document.getElementById('demo_image').style.opacity = "0";
@@ -718,10 +718,10 @@ demo_stop()
       <img loading="lazy" src='images/vipr_pics.png' width="160"></div>
     <img loading="lazy" src='images/vipr_pose.png' width="160">
         </div>
-    <script type="text/javascript">
-    function vipr_start() {
-      document.getElementById('vipr_image').style.opacity = "1";
-    }
+        <script type="text/javascript">
+        function vipr_start() {
+          document.getElementById('vipr_image').style.opacity = "1";
+        }
 
 function vipr_stop() {
   document.getElementById('vipr_image').style.opacity = "0";
@@ -760,10 +760,10 @@ vipr_stop()
       <img loading="lazy" src='images/grapp_smol.png' width="160"></div>
     <img loading="lazy" src='images/grapp_big.png' width="160">
         </div>
-    <script type="text/javascript">
-    function hmd_start() {
-      document.getElementById('hmd_image').style.opacity = "1";
-    }
+        <script type="text/javascript">
+        function hmd_start() {
+          document.getElementById('hmd_image').style.opacity = "1";
+        }
 
 function hmd_stop() {
   document.getElementById('hmd_image').style.opacity = "0";
@@ -801,10 +801,10 @@ hmd_stop()
       <img loading="lazy" src='images/cnnlok_area.png' width="160"></div>
     <img loading="lazy" src='images/cnnlok_results.png' width="160">
         </div>
-    <script type="text/javascript">
-    function cnnlok_start() {
-      document.getElementById('cnnlok_image').style.opacity = "1";
-    }
+        <script type="text/javascript">
+        function cnnlok_start() {
+          document.getElementById('cnnlok_image').style.opacity = "1";
+        }
 
 function cnnlok_stop() {
   document.getElementById('cnnlok_image').style.opacity = "0";
@@ -841,10 +841,10 @@ cnnlok_stop()
       <img loading="lazy" src='images/occ_digital.png' width="160"></div>
     <img loading="lazy" src='images/occ_blue.png' width="160">
         </div>
-    <script type="text/javascript">
-    function occ_start() {
-      document.getElementById('occ_image').style.opacity = "1";
-    }
+        <script type="text/javascript">
+        function occ_start() {
+          document.getElementById('occ_image').style.opacity = "1";
+        }
 
 function occ_stop() {
   document.getElementById('occ_image').style.opacity = "0";
@@ -879,10 +879,10 @@ occ_stop()
       <img loading="lazy" src='images/soccer_hierarchie.png' width="160"></div>
     <img loading="lazy" src='images/soccer_players.png' width="160">
         </div>
-    <script type="text/javascript">
-    function soc_start() {
-      document.getElementById('soc_image').style.opacity = "1";
-    }
+        <script type="text/javascript">
+        function soc_start() {
+          document.getElementById('soc_image').style.opacity = "1";
+        }
 
 function soc_stop() {
   document.getElementById('soc_image').style.opacity = "0";
@@ -916,10 +916,10 @@ soc_stop()
       <img loading="lazy" src='images/hmm_on.png' width="160"></div>
     <img loading="lazy" src='images/hmm_eventcore.png' width="160">
         </div>
-    <script type="text/javascript">
-    function hmm_start() {
-      document.getElementById('hmm_image').style.opacity = "1";
-    }
+        <script type="text/javascript">
+        function hmm_start() {
+          document.getElementById('hmm_image').style.opacity = "1";
+        }
 
 function hmm_stop() {
   document.getElementById('hmm_image').style.opacity = "0";
@@ -954,10 +954,10 @@ hmm_stop()
       <img loading="lazy" src='images/simu_big.png' width="160"></div>
     <img loading="lazy" src='images/simu_battery.png' width="160">
         </div>
-    <script type="text/javascript">
-    function simu_start() {
-      document.getElementById('simu_image').style.opacity = "1";
-    }
+        <script type="text/javascript">
+        function simu_start() {
+          document.getElementById('simu_image').style.opacity = "1";
+        }
 
 function simu_stop() {
   document.getElementById('simu_image').style.opacity = "0";
@@ -991,10 +991,10 @@ simu_stop()
       <img loading="lazy" src='images/ahs_alloc.png' width="160"></div>
     <img loading="lazy" src='images/ahs_network.png' width="160">
         </div>
-    <script type="text/javascript">
-    function ahs_start() {
-      document.getElementById('ahs_image').style.opacity = "1";
-    }
+        <script type="text/javascript">
+        function ahs_start() {
+          document.getElementById('ahs_image').style.opacity = "1";
+        }
 
 function ahs_stop() {
   document.getElementById('ahs_image').style.opacity = "0";
@@ -1034,9 +1034,9 @@ ahs_stop()
       <img loading="lazy" src='images/tomorrows_statistics.jpg' width="480"></div>
     <img loading="lazy" src='images/statistics.jpg' width="480">
         </div>
-    <script type="text/javascript">
-    function google_start() {
-      document.getElementById('google_image').style.opacity = "1";
+        <script type="text/javascript">
+        function google_start() {
+          document.getElementById('google_image').style.opacity = "1";
 }
 
 function google_stop() {
@@ -1142,14 +1142,14 @@ google_stop()
     <tr>
       <td style="padding:20px;width:25%;vertical-align:middle"><img loading="lazy" width="100%" src="images/inf_pucv.png"></td>
       <td width="75%" valign="center">
-	<u>Pregrado:</u><br>
+  <u>Pregrado:</u><br>
         Lecture "Inteligencia Artificial" (AI), since 1st sem. 2024, Informatics and Data Science.
         <br>
-	Lecture "Aprendizaje Automático 1" (ML1), since 1st sem. 2024, Data Science.
-	<br>
-	Lecture "Aprendizaje Automático 2" (ML2), since 2nd sem. 2024, Data Science.
-	<br>
-	<u>Posgrado / Magíster:</u><br>
+  Lecture "Aprendizaje Automático 1" (ML1), since 1st sem. 2024, Data Science.
+  <br>
+  Lecture "Aprendizaje Automático 2" (ML2), since 2nd sem. 2024, Data Science.
+  <br>
+  <u>Posgrado / Magíster:</u><br>
         Lecture "Advances in Deep Learning for Time Series" (ADLTS), 1st trimester 2025, (coop. with <a href="https://www.mad.tf.fau.de/person/dario-zanca/">Dario Zanca</a> and <a href="https://www.mad.tf.fau.de/person/jitin-jami/">Jitin Jami</a> from FAU)
 
       </td>
