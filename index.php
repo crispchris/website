@@ -91,6 +91,53 @@ gtag('config', 'G-LVY9YELSJV');
   </tbody></table>
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+
+
+
+      <tr onmouseout="pairdug_stop()" onmouseover="pairdug_start()" bgcolor="#ffffd0">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='pairdug_image'>
+                  <img loading="lazy" src='images/pairdug_one.png' width="160"></div>
+                <img loading="lazy" src='images/pairdug_two.png' width="160">
+              </div>
+    <script type="text/javascript">
+    function pairdug_start() {
+      document.getElementById('pairdug_image').style.opacity = "1";
+    }
+
+function pairdug_stop() {
+  document.getElementById('pairdug_image').style.opacity = "0";
+}
+pairdug_stop()
+  </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Pairwise Diverse and Uncertain Gradient-Sampling for Similarity Retrieval</papertitle>
+              <br>
+              <strong>Christoffer Löffler</strong>,
+              <br>
+        <em>Sensors, Volume 25, Issue 22, p. 6899, 2025. MDPI.</em>
+              <br>
+        <a href="https://github.com/crispchris/Pairwise-Diverse-and-Uncertain-Gradient-Sampling-for-Similarity-Retrieval"> code </a> /
+        <a href="https://doi.org/10.3390/s25226899">DOI: 10.3390/s25226899</a> 
+              <p></p>
+              <p>PairPUG (Pairwise Diverse and Uncertain Gradient) uses gradient-based feedback to dynamically select only the most informative training 
+pairs for distance-preserving trajectory embeddings, cutting computation time for Siamese network learning by about half while maintaining or improving 
+retrieval quality on very large basketball and football datasets. 
+        </p>
+            </td>
+          </tr> 
+
+
+
+
+
+
+
+
+
+
       <tr onmouseout="dont_stop()" onmouseover="dont_start()" bgcolor="#ffffd0">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
