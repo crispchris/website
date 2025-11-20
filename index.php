@@ -117,7 +117,7 @@ pairdug_stop()
               <br>
               <strong>Christoffer Löffler</strong>
               <br>
-        <em>Sensors, Volume 25, Issue 22, p. 6899, 2025. MDPI.</em>
+        <em>Sensors, Volume 25, Issue 22, p. 6899, 2025.</em>
               <br>
         <a href="https://github.com/crispchris/Pairwise-Diverse-and-Uncertain-Gradient-Sampling-for-Similarity-Retrieval"> code </a> /
         <a href="https://doi.org/10.3390/s25226899">DOI: 10.3390/s25226899</a> 
