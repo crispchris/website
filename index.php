@@ -115,7 +115,7 @@ pairdug_stop()
             <td style="padding:20px;width:75%;vertical-align:middle">
                 <papertitle>Pairwise Diverse and Uncertain Gradient-Sampling for Similarity Retrieval</papertitle>
               <br>
-              <strong>Christoffer Löffler</strong>,
+              <strong>Christoffer Löffler</strong>
               <br>
         <em>Sensors, Volume 25, Issue 22, p. 6899, 2025. MDPI.</em>
               <br>
