@@ -94,6 +94,40 @@ gtag('config', 'G-LVY9YELSJV');
 
 
 
+      <tr onmouseout="metamer_stop()" onmouseover="metamer_start()" >
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='metamer_image'>
+                  <img loading="lazy" src='images/metamer_start.png' width="160"></div>
+                <img loading="lazy" src='images/metamer_stop.png' width="160">
+              </div>
+    <script type="text/javascript">
+    function metamer_start() {
+      document.getElementById('metamer_image').style.opacity = "1";
+    }
+
+function metamer_stop() {
+  document.getElementById('metamer_image').style.opacity = "0";
+}
+metamer_stop()
+  </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Understanding Cross-Model Perceptual Invariances Through Ensemble Metamers</papertitle>
+              <br>
+        Lukas Böhm, Jonas Leo Müller, <strong>Christoffer Löffler</strong>, Leo Schwinn, Bjoern Eskofier, Dario Zanca 
+              <br>
+            <i>Accepted in Neural Computing and Applications, 2026. Springer Nature, Cham. </i>
+              <br>
+        <a href="https://arxiv.org/abs/2504.01739"> preprint </a> <!--/ <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
+              <p></p>
+              <p>A novel metamer generation approach using neural network ensembles reveals that convolutional networks produce more human-like metamers than vision transformers, emphasizing architectural biases in representational invariances.
+        </p>
+            </td>
+          </tr> 
+
+
+
       <tr onmouseout="pairdug_stop()" onmouseover="pairdug_start()" bgcolor="#ffffd0">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -213,38 +247,6 @@ pruning_stop()
           </tr> 
 
 
-
-      <tr onmouseout="metamer_stop()" onmouseover="metamer_start()" >
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id='metamer_image'>
-                  <img loading="lazy" src='images/metamer_start.png' width="160"></div>
-                <img loading="lazy" src='images/metamer_stop.png' width="160">
-              </div>
-    <script type="text/javascript">
-    function metamer_start() {
-      document.getElementById('metamer_image').style.opacity = "1";
-    }
-
-function metamer_stop() {
-  document.getElementById('metamer_image').style.opacity = "0";
-}
-metamer_stop()
-  </script>
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-                <papertitle>Understanding Cross-Model Perceptual Invariances Through Ensemble Metamers</papertitle>
-              <br>
-        Lukas Böhm, Jonas Leo Müller, <strong>Christoffer Löffler</strong>, Leo Schwinn, Bjoern Eskofier, Dario Zanca 
-              <br>
-            <i>2025, preprint</i>
-              <br>
-        <a href="https://arxiv.org/abs/2504.01739"> preprint </a> <!--/ <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
-              <p></p>
-              <p>A novel metamer generation approach using neural network ensembles reveals that convolutional networks produce more human-like metamers than vision transformers, emphasizing architectural biases in representational invariances.
-        </p>
-            </td>
-          </tr> 
 
 
 
