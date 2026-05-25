@@ -93,7 +93,7 @@ gtag('config', 'G-LVY9YELSJV');
 
 
 
-      <tr onmouseout="rag_stop()" onmouseover="rag_start()" >
+      <tr onmouseout="rag_stop()" onmouseover="rag_start()" bgcolor="#ffffd0">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='rag_image'>
@@ -164,7 +164,7 @@ metamer_stop()
 
 
 
-      <tr onmouseout="pairdug_stop()" onmouseover="pairdug_start()" bgcolor="#ffffd0">
+      <tr onmouseout="pairdug_stop()" onmouseover="pairdug_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='pairdug_image'>
