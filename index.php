@@ -93,6 +93,42 @@ gtag('config', 'G-LVY9YELSJV');
 
 
 
+      <tr onmouseout="rag_stop()" onmouseover="rag_start()" >
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='rag_image'>
+                  <img loading="lazy" src='images/rag_start.png' width="160"></div>
+                <img loading="lazy" src='images/rag_stop.png' width="160">
+              </div>
+    <script type="text/javascript">
+    function rag_start() {
+      document.getElementById('rag_image').style.opacity = "1";
+    }
+
+function rag_stop() {
+  document.getElementById('rag_image').style.opacity = "0";
+}
+rag_stop()
+  </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Retrieval-Augmented Detection of Potentially Abusive Clauses in Chilean Terms of Service</papertitle>
+              <br>
+                 <strong>Christoffer Löffler</strong>, Tomás Rey Pizarro, Daniel Ignacio Miranda Vásquez, Andrea Martínez Freile
+              <br>
+            <i>2026, preprint </i>
+              <br>
+              <!-- <a href="https://arxiv.org/abs/2504.01739"> preprint </a> / <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
+              <p></p>
+              <p>
+We introduce a local retrieval-augmented generation framework and an extended annotated corpus to 
+automate the detection and classification of potentially abusive clauses in Chilean Terms of Service.
+        </p>
+            </td>
+          </tr> 
+
+
+
 
       <tr onmouseout="metamer_stop()" onmouseover="metamer_start()" >
             <td style="padding:20px;width:25%;vertical-align:middle">
