@@ -117,7 +117,8 @@ rag_stop()
                  <strong>Christoffer Löffler</strong>, Tomás Rey Pizarro, Daniel Ignacio Miranda Vásquez, Andrea Martínez Freile
               <br>
             <i>2026, preprint </i>
-              <br>
+	      <br>
+		<a href="https://arxiv.org/abs/2605.26019"> preprint </a>
               <!-- <a href="https://arxiv.org/abs/2504.01739"> preprint </a> / <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
               <p></p>
               <p>
