@@ -154,9 +154,9 @@ metamer_stop()
               <br>
         Lukas Böhm, Jonas Leo Müller, <strong>Christoffer Löffler</strong>, Leo Schwinn, Bjoern Eskofier, Dario Zanca 
               <br>
-            <i>Accepted in Neural Computing and Applications, 2026. Springer Nature, Cham. </i>
+            <i>Neural Computing and Applications, Volume 38, Article 430, 2026. Springer Nature, Cham. </i>
               <br>
-        <a href="https://arxiv.org/abs/2504.01739"> preprint </a> <!--/ <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
+        <a href="https://arxiv.org/abs/2504.01739"> preprint </a> / <a href="https://doi.org/10.1007/s00521-026-12145-5">DOI: 10.1007/s00521-026-12145-5</a>
               <p></p>
               <p>A novel metamer generation approach using neural network ensembles reveals that convolutional networks produce more human-like metamers than vision transformers, emphasizing architectural biases in representational invariances.
         </p>
