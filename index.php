@@ -1103,37 +1103,7 @@ ahs_stop()
         <p></p>
         <p>When running a distributed low-latency event processing system, you may want to optimize latency - heuristically.</p>
       </td>
-    </tr> 
-
-
-
-<!--
-<tr onmouseout="google_stop()" onmouseover="google_start()">
-<td>
-<center>
-
-  Current Google Scholar citation statistics.
-</td>
-<td style="padding:20px;width:50%;vertical-align:middle">
-        <div class="one">
-    <div class="two" id='google_image'>
-      <img loading="lazy" src='images/tomorrows_statistics.jpg' width="480"></div>
-    <img loading="lazy" src='images/statistics.jpg' width="480">
-        </div>
-        <script type="text/javascript">
-        function google_start() {
-          document.getElementById('google_image').style.opacity = "1";
-}
-
-function google_stop() {
-  document.getElementById('google_image').style.opacity = "0";
-}
-google_stop()
-  </script>
-</td>
-
-</tr>
--->
+    </tr>
 
   </tbody></table>
 
