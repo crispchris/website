@@ -38,7 +38,7 @@ gtag('config', 'G-LVY9YELSJV');
     <heading id="CV">Christoffer Löffler</heading>
       </p>
 
-      <p style="text-align:justify">I am a <i>profesor asociado</i> at the <a href="http://inf.ucv.cl">school of informatics</a> of the Pontificia Universidad Católica de Valparaíso (PUCV) in Chile.</p>
+      <p style="text-align:justify">I am a Associate Professor (<i>Auxiliar</i>) at the <a href="http://inf.ucv.cl">school of informatics</a> of the Pontificia Universidad Católica de Valparaíso (PUCV) in Chile.</p>
 
       <p style="text-align:justify">
         My research is on machine learning with few labeled data and broadly on time series.
