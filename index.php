@@ -93,6 +93,42 @@ gtag('config', 'G-LVY9YELSJV');
 
 
 
+      <tr onmouseout="weaksup_stop()" onmouseover="weaksup_start()" bgcolor="#ffffd0">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='weaksup_image'>
+                  <img loading="lazy" src='images/weaksup_start.png' width="160"></div>
+                <img loading="lazy" src='images/weaksup_stop.png' width="160">
+              </div>
+    <script type="text/javascript">
+    function weaksup_start() {
+      document.getElementById('weaksup_image').style.opacity = "1";
+    }
+
+function weaksup_stop() {
+  document.getElementById('weaksup_image').style.opacity = "0";
+}
+weaksup_stop()
+  </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Weak Supervision under Annotation Scarcity for Fine-Grained Legal Clause Classification</papertitle>
+              <br>
+                 <strong>Christoffer Löffler</strong>, Andrea Martínez Freile
+              <br>
+            <i>Knowledge-Based Systems, 2026. Elsevier. (accepted)</i>
+              <p></p>
+              <p>
+We build a leakage-safe benchmark for classifying abusive clauses in Chilean Terms of Service with few labels.
+Weak supervision improves Macro-F1 on rare clause subtypes by up to 17%, with soft teacher–student distillation the most reliable default,
+while end-to-end gains stay limited by detector recall.
+        </p>
+            </td>
+          </tr>
+
+
+
+
       <tr onmouseout="rag_stop()" onmouseover="rag_start()" bgcolor="#ffffd0">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
