@@ -869,7 +869,7 @@ vipr_stop()
         <?php  $paperid="16801210167294318901";  include 'citation.php'; ?> 
         <a href="https://youtu.be/ZCTxPJPCfF0?t=20577">video</a> / 
 
-                <a href="./pdfs/2020_cvprw_vipr.pdf">pdf</a> / 
+                <a href="http://openaccess.thecvf.com/content_CVPRW_2020/papers/w3/Ott_ViPR_Visual-Odometry-Aided_Pose_Regression_for_6DoF_Camera_Localization_CVPRW_2020_paper.pdf">pdf</a> / 
         <a href="https://doi.ieeecomputersociety.org/10.1109/CVPRW50498.2020.00029">DOI: 10.1109/CVPRW50498.2020.00029 </a>
         <!--<a href="data/cvpr2020.bib">bibtex</a> / -->
 
