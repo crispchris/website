@@ -117,6 +117,8 @@ weaksup_stop()
                  <strong>Christoffer Löffler</strong>, Andrea Martínez Freile
               <br>
             <i>Knowledge-Based Systems, 2026. Elsevier. (accepted)</i>
+              <br>
+              <a href="./pdfs/2026_kbs_weak_supervision.pdf">pdf</a>
               <p></p>
               <p>
 We build a leakage-safe benchmark for classifying abusive clauses in Chilean Terms of Service with few labels.
