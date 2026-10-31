@@ -157,7 +157,7 @@ rag_stop()
               <br>
             <i>2026, preprint </i>
 	      <br>
-		<a href="https://arxiv.org/abs/2605.26019"> preprint </a>
+		<a href="./pdfs/2026_arxiv_rag_abusive_clauses.pdf"> preprint </a>
               <!-- <a href="https://arxiv.org/abs/2504.01739"> preprint </a> / <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
               <p></p>
               <p>
@@ -195,7 +195,7 @@ metamer_stop()
               <br>
             <i>Neural Computing and Applications, Volume 38, Article 430, 2026. Springer Nature, Cham. </i>
               <br>
-        <a href="https://arxiv.org/abs/2504.01739"> preprint </a> / <a href="https://doi.org/10.1007/s00521-026-12145-5">DOI: 10.1007/s00521-026-12145-5</a>
+        <a href="./pdfs/2025_arxiv_ensemble_metamers.pdf"> preprint </a> / <a href="https://doi.org/10.1007/s00521-026-12145-5">DOI: 10.1007/s00521-026-12145-5</a>
               <p></p>
               <p>A novel metamer generation approach using neural network ensembles reveals that convolutional networks produce more human-like metamers than vision transformers, emphasizing architectural biases in representational invariances.
         </p>
@@ -282,7 +282,7 @@ dont_stop()
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
         <!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
         <a href="https://github.com/crispchris/saliency"> code </a> /
-        <a href="https://arxiv.org/abs/2203.07861"> preprint </a> / 
+        <a href="./pdfs/2022_arxiv_dont_get_me_wrong.pdf"> preprint </a> / 
         <a href="https://doi.org/10.1007/s10489-025-06798-3">DOI: 10.1007/s10489-025-06798-3</a> 
         <!--<a href="https://jmlr.org/papers/v23/21-0387.html"> pdf </a> -->
               <p></p>
@@ -316,7 +316,7 @@ pruning_stop()
         Sebastian Schmidt, Prasanga Dhungel, <strong>Christoffer Löffler</strong>, Björn Nieth, Stephan Günnemann, Leo Schwinn              <br>
             <i>2025, preprint</i>
               <br>
-        <a href="https://arxiv.org/pdf/2506.09010"> preprint </a> <!--/ <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
+        <a href="./pdfs/2025_arxiv_data_pruning_score_extrapolation.pdf"> preprint </a> <!--/ <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
               <p></p>
               <p>We propose an importance score extrapolation framework using k-nearest neighbors and graph neural networks to efficiently predict sample importance from a small data subset, enhancing data pruning without full initial training, demonstrated across multiple datasets and training paradigms.        </p>
             </td>
@@ -351,7 +351,7 @@ law_stop()
               <br>
             <i>Artificial Intelligence and Law. 2025. Springer, Cham.</i>
               <br>
-        <a href="https://arxiv.org/abs/2502.00865"> preprint </a> / <a href="https://doi.org/10.1007/s10506-025-09462-w">DOI: 10.1007/s10506-025-09462-w</a>
+        <a href="./pdfs/2025_arxiv_chilean_tos_abusive_clauses.pdf"> preprint </a> / <a href="https://doi.org/10.1007/s10506-025-09462-w">DOI: 10.1007/s10506-025-09462-w</a>
               <p></p>
               <p>We propose a novel legal framework and Spanish-language legal dataset for classifying potentially abusive clauses in Chilean Terms of Service, and predict the clauses using few-shot learning or fine-tuned LLMs.
         </p>
@@ -457,7 +457,7 @@ biomimetics_stop()
               <br>
             <i>Biomimetics 2024, 9(2), 82; </i>
               <br>
-        <a href="https://www.mdpi.com/2313-7673/9/2/82/pdf?version=1706666129"> pdf </a> / <a href="https://doi.org/10.3390/biomimetics9020082">DOI: 10.3390/biomimetics9020082</a>
+        <a href="./pdfs/2024_biomimetics_autonomous_parameter_balance.pdf"> pdf </a> / <a href="https://doi.org/10.3390/biomimetics9020082">DOI: 10.3390/biomimetics9020082</a>
               <p></p>
               <p>We augment population-based meta-heuristics with a learning component to bias the exploration direction of the search.
         </p>
@@ -553,7 +553,7 @@ ordinal_stop()
               <br>
         <?php  $paperid="16503596821383677906";  include 'citation.php'; ?>  
         <a href="https://tmlr.infinite-conf.org/paper_pages/oq3tx5kinu.html">TMLR infinite conf</a> / 
-        <a href="https://www.christofferloeffler.com/pdfs/297_active_learning_of_ordinal_emb.pdf"> pdf</a> / 
+        <a href="./pdfs/297_active_learning_of_ordinal_emb.pdf"> pdf</a> / 
         <a href="https://openreview.net/forum?id=oq3tx5kinu"> OpenReview</a> / 
         <a href="https://youtu.be/xqOJAtjxjKE">video</a> /  
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
@@ -604,7 +604,7 @@ ialenips_stop()
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
         <!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
         <?php  $paperid="6071906203847773282";  include 'citation.php'; ?> 
-        <a href="https://www.jmlr.org/papers/volume23/21-0387/21-0387.pdf"> pdf </a> / 
+        <a href="./pdfs/2022_jmlr_iale.pdf"> pdf </a> / 
         <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/8efb100a295c0c690931222ff4467bb8.png"> poster</a> / 
         <a href="https://neurips.cc/virtual/2022/poster/56122"> video </a> / 
         <a href="https://github.com/crispchris/iale"> code </a> 
@@ -650,7 +650,7 @@ iale_stop()
         <!--<a href="https://iis.fraunhofer.de/tooltracking">project</a> / -->
         <?php  $paperid="6071906203847773282";  include 'citation.php'; ?> 
         <a href="https://github.com/crispchris/iale"> code </a> /  
-        <a href="https://www.jmlr.org/papers/volume23/21-0387/21-0387.pdf"> pdf </a> 
+        <a href="./pdfs/2022_jmlr_iale.pdf"> pdf </a> 
               <p></p>
               <p> We propose an imitation learning approach that learns a policy for active learning from an ensemble of deep active learners.</p>
             </td>
@@ -734,7 +734,7 @@ emc2_stop()
         <!--<a href="data/cvpr2020.bib">bibtex</a> / -->
         <!--<a href="https://github.com/crispchris/iale"> code </a> / -->
         <!--<a href="https://arxiv.org/abs/2007.04637">arXiv</a> / -->
-    <a href="https://www.emc2-ai.org/assets/docs/virtual-20/emc2-virtual20-paper-8.pdf">pdf</a> / 
+    <a href="./pdfs/2020_emc2_quantization_recipes.pdf">pdf</a> / 
         <a href="https://iis.fraunhofer.de/tooltracking">project</a> 
         <p></p>
         <p>We show that post-training quantization (done greedily) benefits from an optimal global bit-width and evaluate this on VGG, ResNet, UNet and our tool tracking FCN.</p>
@@ -827,7 +827,7 @@ demo_stop()
         <a href="https://slideslive.com/38932435/automated-quality-assurance-for-handheld-tools-via-embedded-classification-and-automl">video presentation</a> / 
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
         <a href="https://iis.fraunhofer.de/tooltracking">project</a> / 
-        <a href="https://bitbucket.org/ghentdatascience/ecmlpkdd20-papers/raw/master/Demo/sub_1329.pdf">pdf</a>  /
+        <a href="./pdfs/2020_ecmlpkdd_demo_tool_quality_assurance.pdf">pdf</a>  /
         <a href="http://doi.org/10.1007/978-3-030-67670-4_33">DOI: 10.1007/978-3-030-67670-4_33</a>
                      <p></p>
         <p>We describe an AutoML system for our custom hardware and classify multivariate data using deep and shallow methods.</p>
@@ -869,7 +869,7 @@ vipr_stop()
         <?php  $paperid="16801210167294318901";  include 'citation.php'; ?> 
         <a href="https://youtu.be/ZCTxPJPCfF0?t=20577">video</a> / 
 
-                <a href="http://openaccess.thecvf.com/content_CVPRW_2020/papers/w3/Ott_ViPR_Visual-Odometry-Aided_Pose_Regression_for_6DoF_Camera_Localization_CVPRW_2020_paper.pdf">pdf</a> / 
+                <a href="./pdfs/2020_cvprw_vipr.pdf">pdf</a> / 
         <a href="https://doi.ieeecomputersociety.org/10.1109/CVPRW50498.2020.00029">DOI: 10.1109/CVPRW50498.2020.00029 </a>
         <!--<a href="data/cvpr2020.bib">bibtex</a> / -->
 
@@ -911,7 +911,7 @@ hmd_stop()
         <?php  $paperid="8163049789733013846";  include 'citation.php'; ?> 
         <!--<a href="https://youtu.be/ZCTxPJPCfF0?t=20577">video</a> / 
         <a href="data/cvpr2020.bib">bibtex</a> / -->
-        <a href="https://www.researchgate.net/profile/Tobias_Feigl3/publication/340047854_Localization_Limitations_of_ARCore_ARKit_and_Hololens_in_Dynamic_Large-scale_Industry_Environments/links/5ed0f4dd45851529451b89ec/Localization-Limitations-of-ARCore-ARKit-and-Hololens-in-Dynamic-Large-scale-Industry-Environments.pdf">pdf</a> / 
+        <a href="./pdfs/2020_grapp_localization_limitations.pdf">pdf</a> / 
       <a href="http://doi.org/10.5220/0008989903070318">DOI: 10.5220/0008989903070318 </a> 
 
         <p></p>
@@ -950,7 +950,7 @@ cnnlok_stop()
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
         <a href="https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/opt.html">project</a> / 
         <a href="https://www.iis.fraunhofer.de/de/ff/lv/lok/tech/opt1/warehouse.html">warehouse dataset</a> / 
-        <a href="https://www.researchgate.net/profile/Christopher_Mutschler/publication/328702558_Evaluation_Criteria_for_Inside-Out_Indoor_Positioning_Systems_Based_on_Machine_Learning/links/5bdca647a6fdcc3a8db8c7c5/Evaluation-Criteria-for-Inside-Out-Indoor-Positioning-Systems-Based-on-Machine-Learning.pdf">pdf</a> /
+        <a href="./pdfs/2018_ipin_evaluation_criteria.pdf">pdf</a> /
         <a href="./pdfs/esi_poster_v2.pdf">poster</a> / 
         <a href="./pdfs/ipin_2018_slides.pdf">slides</a> / 
         <a href="http://doi.org/10.1109/IPIN.2018.8533862">DOI: 10.1109/IPIN.2018.8533862</a>
@@ -988,7 +988,7 @@ occ_stop()
   <em>IEEE 15th Workshop on Positioning, Navigation and Communications (WPNC)</em>, 2018  
         <br>
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
-        <a href="https://www.researchgate.net/profile/Christopher_Mutschler/publication/328702463_Optical_Camera_Communication_for_Active_Marker_Identification_in_Camera-based_Positioning_Systems/links/5bdca59f92851c6b27a1a7fb/Optical-Camera-Communication-for-Active-Marker-Identification-in-Camera-based-Positioning-Systems.pdf">pdf</a> /
+        <a href="./pdfs/2018_wpnc_optical_camera_communication.pdf">pdf</a> /
         <a href="http://doi.org/10.1109/WPNC.2018.8555846">DOI: 10.1109/WPNC.2018.8555846</a>
         <p></p>
         <p>How to build a cheap but reliable optical positioning system with Raspberry Pi with active LED markers and continuously identify them.</p>
@@ -1027,7 +1027,7 @@ soc_stop()
         <br>
 <?php  $paperid="4195906656696761508";  include 'citation.php'; ?> 
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
-        <a href="https://dl.acm.org/doi/pdf/10.1145/2675743.2776767">pdf</a> / 
+        <a href="./pdfs/2015_debs_approximative_event_processing.pdf">pdf</a> / 
         <a href="https://doi.org/10.1145/2675743.2776767">DOI: 10.1145/2675743.2776767</a>
         <p></p>
         <p>Event-Based Systems (EBS) can efficiently analyze large streams of sensor data in near-realtime. But they struggle with noise or incompleteness that is seen in the unprecedented amount of data generated by the Internet of Things</p>
@@ -1064,7 +1064,7 @@ hmm_stop()
         <br>
         <?php  $paperid="5676470276273029461";  include 'citation.php'; ?> 
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
-        <a href="https://dl.acm.org/doi/pdf/10.1145/2611286.2611330">pdf</a> / 
+        <a href="./pdfs/2014_debs_predictive_load_management.pdf">pdf</a> / 
         <a href="https://doi.org/10.1145/2611286.2611330">DOI: 10.1145/2611286.2611330 </a>
         <p></p>
         <p>We've won the DEBS 2014 Grand Challenge with our hidden Markov model approach.</p>
@@ -1101,7 +1101,7 @@ simu_stop()
         <br>
         <?php  $paperid="3556026464382987583";  include 'citation.php'; ?> 
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
-        <a href="https://www.researchgate.net/profile/Christoffer_Loeffler/publication/269098904_Simulating_the_Energy_Management_on_Smartphones_Using_Hybrid_Modeling_Techniques/links/5b7d4ade299bf1d5a71bd885/Simulating-the-Energy-Management-on-Smartphones-Using-Hybrid-Modeling-Techniques.pdf">pdf</a> / 
+        <a href="./pdfs/2014_mmb_smartphone_energy.pdf">pdf</a> / 
         <a href="http://doi.org/10.1007/978-3-319-05359-2_15"> DOI: 10.1007/978-3-319-05359-2_15</a>
         <p></p>
         <p>We model a smartphone playing back music and its energy management.</p>
@@ -1137,7 +1137,7 @@ ahs_stop()
         <a href="https://www.ps.tf.fau.de/person/philippsen/">Michael Philippsen</a>
         <br>
         <?php  $paperid="8559668149762888570";  include 'citation.php'; ?> 
-        <a href="https://faui20a.informatik.uni-erlangen.de/EN/publication/download/AHS2013.pdf">pdf</a> / 
+        <a href="./pdfs/2013_ahs_runtime_migration.pdf">pdf</a> / 
         <a href="http://doi.org/10.1109/AHS.2013.6604223">DOI: 10.1109/AHS.2013.6604223</a>
         <p></p>
         <p>When running a distributed low-latency event processing system, you may want to optimize latency - heuristically.</p>
