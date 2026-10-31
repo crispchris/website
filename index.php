@@ -950,7 +950,7 @@ cnnlok_stop()
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
         <a href="https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/opt.html">project</a> / 
         <a href="https://www.iis.fraunhofer.de/de/ff/lv/lok/tech/opt1/warehouse.html">warehouse dataset</a> / 
-        <a href="./pdfs/2018_ipin_evaluation_criteria.pdf">pdf</a> /
+        <a href="https://www.researchgate.net/profile/Christopher_Mutschler/publication/328702558_Evaluation_Criteria_for_Inside-Out_Indoor_Positioning_Systems_Based_on_Machine_Learning/links/5bdca647a6fdcc3a8db8c7c5/Evaluation-Criteria-for-Inside-Out-Indoor-Positioning-Systems-Based-on-Machine-Learning.pdf">pdf</a> /
         <a href="./pdfs/esi_poster_v2.pdf">poster</a> / 
         <a href="./pdfs/ipin_2018_slides.pdf">slides</a> / 
         <a href="http://doi.org/10.1109/IPIN.2018.8533862">DOI: 10.1109/IPIN.2018.8533862</a>
@@ -988,7 +988,7 @@ occ_stop()
   <em>IEEE 15th Workshop on Positioning, Navigation and Communications (WPNC)</em>, 2018  
         <br>
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
-        <a href="./pdfs/2018_wpnc_optical_camera_communication.pdf">pdf</a> /
+        <a href="https://www.researchgate.net/profile/Christopher_Mutschler/publication/328702463_Optical_Camera_Communication_for_Active_Marker_Identification_in_Camera-based_Positioning_Systems/links/5bdca59f92851c6b27a1a7fb/Optical-Camera-Communication-for-Active-Marker-Identification-in-Camera-based-Positioning-Systems.pdf">pdf</a> /
         <a href="http://doi.org/10.1109/WPNC.2018.8555846">DOI: 10.1109/WPNC.2018.8555846</a>
         <p></p>
         <p>How to build a cheap but reliable optical positioning system with Raspberry Pi with active LED markers and continuously identify them.</p>
