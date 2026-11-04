@@ -116,7 +116,7 @@ weaksup_stop()
               <br>
                  <strong>Christoffer Löffler</strong>, Andrea Martínez Freile
               <br>
-            <i>Knowledge-Based Systems, 2026. Elsevier. (in press)</i>
+            <i>Knowledge-Based Systems, Volume 355, Article 117235, 2027. Elsevier.</i>
               <br>
               <a href="./pdfs/2026_kbs_weak_supervision.pdf">preprint</a> /
               <a href="https://doi.org/10.1016/j.knosys.2026.117235">DOI: 10.1016/j.knosys.2026.117235</a>
