@@ -347,9 +347,9 @@ law_stop()
             <td style="padding:20px;width:75%;vertical-align:middle">
                 <papertitle>Predicting potentially abusive clauses in Chilean terms of services with natural language processing</papertitle>
               <br>
-        <strong>Christoffer Löffler</strong>, Andrea Martínez Freile, Romás Rey Pizarro
+        <strong>Christoffer Löffler</strong>, Andrea Martínez Freile, Tomás Rey Pizarro
               <br>
-            <i>Artificial Intelligence and Law. 2025. Springer, Cham.</i>
+            <i>Artificial Intelligence and Law, Volume 34, Issue 4, pp. 1127–1164, 2026. Springer.</i>
               <br>
         <a href="./pdfs/2025_arxiv_chilean_tos_abusive_clauses.pdf"> preprint </a> / <a href="https://doi.org/10.1007/s10506-025-09462-w">DOI: 10.1007/s10506-025-09462-w</a>
               <p></p>
