@@ -132,37 +132,34 @@ while end-to-end gains stay limited by detector recall.
 
 
 
-      <tr onmouseout="rag_stop()" onmouseover="rag_start()" bgcolor="#ffffd0">
+      <tr onmouseout="law_stop()" onmouseover="law_start()" bgcolor="#ffffd0">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
-                <div class="two" id='rag_image'>
-                  <img loading="lazy" src='images/rag_start.png' width="160"></div>
-                <img loading="lazy" src='images/rag_stop.png' width="160">
+                <div class="two" id='law_image'>
+                  <img loading="lazy" src='images/law_start.png' width="160"></div>
+                <img loading="lazy" src='images/law_stop.png' width="160">
               </div>
     <script type="text/javascript">
-    function rag_start() {
-      document.getElementById('rag_image').style.opacity = "1";
+    function law_start() {
+      document.getElementById('law_image').style.opacity = "1";
     }
 
-function rag_stop() {
-  document.getElementById('rag_image').style.opacity = "0";
+function law_stop() {
+  document.getElementById('law_image').style.opacity = "0";
 }
-rag_stop()
+law_stop()
   </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
-                <papertitle>Retrieval-Augmented Detection of Potentially Abusive Clauses in Chilean Terms of Service</papertitle>
+                <papertitle>Predicting potentially abusive clauses in Chilean terms of services with natural language processing</papertitle>
               <br>
-                 <strong>Christoffer Löffler</strong>, Tomás Rey Pizarro, Daniel Ignacio Miranda Vásquez, Andrea Martínez Freile
+        <strong>Christoffer Löffler</strong>, Andrea Martínez Freile, Tomás Rey Pizarro
               <br>
-            <i>2026, preprint </i>
-	      <br>
-		<a href="./pdfs/2026_arxiv_rag_abusive_clauses.pdf"> preprint </a>
-              <!-- <a href="https://arxiv.org/abs/2504.01739"> preprint </a> / <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
+            <i>Artificial Intelligence and Law, Volume 34, Issue 4, pp. 1127–1164, 2026. Springer.</i>
+              <br>
+        <a href="./pdfs/2025_arxiv_chilean_tos_abusive_clauses.pdf"> preprint </a> / <a href="https://doi.org/10.1007/s10506-025-09462-w">DOI: 10.1007/s10506-025-09462-w</a>
               <p></p>
-              <p>
-We introduce a local retrieval-augmented generation framework and an extended annotated corpus to 
-automate the detection and classification of potentially abusive clauses in Chilean Terms of Service.
+              <p>We propose a novel legal framework and Spanish-language legal dataset for classifying potentially abusive clauses in Chilean Terms of Service, and predict the clauses using few-shot learning or fine-tuned LLMs.
         </p>
             </td>
           </tr> 
@@ -204,6 +201,50 @@ metamer_stop()
 
 
 
+      <tr onmouseout="rag_stop()" onmouseover="rag_start()" bgcolor="#ffffd0">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='rag_image'>
+                  <img loading="lazy" src='images/rag_start.png' width="160"></div>
+                <img loading="lazy" src='images/rag_stop.png' width="160">
+              </div>
+    <script type="text/javascript">
+    function rag_start() {
+      document.getElementById('rag_image').style.opacity = "1";
+    }
+
+function rag_stop() {
+  document.getElementById('rag_image').style.opacity = "0";
+}
+rag_stop()
+  </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Retrieval-Augmented Detection of Potentially Abusive Clauses in Chilean Terms of Service</papertitle>
+              <br>
+                 <strong>Christoffer Löffler</strong>, Tomás Rey Pizarro, Daniel Ignacio Miranda Vásquez, Andrea Martínez Freile
+              <br>
+            <i>2026, preprint </i>
+	      <br>
+		<a href="./pdfs/2026_arxiv_rag_abusive_clauses.pdf"> preprint </a>
+              <!-- <a href="https://arxiv.org/abs/2504.01739"> preprint </a> / <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
+              <p></p>
+              <p>
+We introduce a local retrieval-augmented generation framework and an extended annotated corpus to 
+automate the detection and classification of potentially abusive clauses in Chilean Terms of Service.
+        </p>
+            </td>
+          </tr> 
+
+
+
+
+
+
+
+
+
+
       <tr onmouseout="pairdug_stop()" onmouseover="pairdug_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -238,14 +279,6 @@ retrieval quality on very large basketball and football datasets.
         </p>
             </td>
           </tr> 
-
-
-
-
-
-
-
-
 
 
       <tr onmouseout="dont_stop()" onmouseover="dont_start()" bgcolor="#ffffd0">
@@ -292,6 +325,9 @@ dont_stop()
           </tr> 
 
 
+
+
+
       <tr onmouseout="pruning_stop()" onmouseover="pruning_start()" >
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -319,42 +355,6 @@ pruning_stop()
         <a href="./pdfs/2025_arxiv_data_pruning_score_extrapolation.pdf"> preprint </a> <!--/ <a href="https://doi.org/10.1007/978-3-031-64832-8_4">DOI: 10.1007/978-3-031-64832-8_4</a>-->
               <p></p>
               <p>We propose an importance score extrapolation framework using k-nearest neighbors and graph neural networks to efficiently predict sample importance from a small data subset, enhancing data pruning without full initial training, demonstrated across multiple datasets and training paradigms.        </p>
-            </td>
-          </tr> 
-
-
-
-
-
-      <tr onmouseout="law_stop()" onmouseover="law_start()" bgcolor="#ffffd0">
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id='law_image'>
-                  <img loading="lazy" src='images/law_start.png' width="160"></div>
-                <img loading="lazy" src='images/law_stop.png' width="160">
-              </div>
-    <script type="text/javascript">
-    function law_start() {
-      document.getElementById('law_image').style.opacity = "1";
-    }
-
-function law_stop() {
-  document.getElementById('law_image').style.opacity = "0";
-}
-law_stop()
-  </script>
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-                <papertitle>Predicting potentially abusive clauses in Chilean terms of services with natural language processing</papertitle>
-              <br>
-        <strong>Christoffer Löffler</strong>, Andrea Martínez Freile, Tomás Rey Pizarro
-              <br>
-            <i>Artificial Intelligence and Law, Volume 34, Issue 4, pp. 1127–1164, 2026. Springer.</i>
-              <br>
-        <a href="./pdfs/2025_arxiv_chilean_tos_abusive_clauses.pdf"> preprint </a> / <a href="https://doi.org/10.1007/s10506-025-09462-w">DOI: 10.1007/s10506-025-09462-w</a>
-              <p></p>
-              <p>We propose a novel legal framework and Spanish-language legal dataset for classifying potentially abusive clauses in Chilean Terms of Service, and predict the clauses using few-shot learning or fine-tuned LLMs.
-        </p>
             </td>
           </tr> 
 
