@@ -190,7 +190,7 @@ metamer_stop()
               <br>
         Lukas Böhm, Jonas Leo Müller, <strong>Christoffer Löffler</strong>, Leo Schwinn, Bjoern Eskofier, Dario Zanca 
               <br>
-            <i>Neural Computing and Applications, Volume 38, Article 430, 2026. Springer Nature, Cham. </i>
+            <i>Neural Computing and Applications, Volume 38, Issue 11, Article 430, 2026. Springer.</i>
               <br>
         <a href="./pdfs/2025_arxiv_ensemble_metamers.pdf"> preprint </a> / <a href="https://doi.org/10.1007/s00521-026-12145-5">DOI: 10.1007/s00521-026-12145-5</a>
               <p></p>
@@ -268,7 +268,7 @@ pairdug_stop()
               <br>
               <strong>Christoffer Löffler</strong>
               <br>
-        <em>Sensors, Volume 25, Issue 22, p. 6899, 2025.</em>
+        <em>Sensors, Volume 25, Issue 22, Article 6899, 2025. MDPI.</em>
               <br>
         <a href="https://github.com/crispchris/Pairwise-Diverse-and-Uncertain-Gradient-Sampling-for-Similarity-Retrieval"> code </a> /
         <a href="https://doi.org/10.3390/s25226899">DOI: 10.3390/s25226899</a> 
@@ -309,7 +309,7 @@ dont_stop()
         <a href="https://www.linkedin.com/in/lukas-schmidt-41a94395/">Lukas Schmidt</a>,
               <a href="https://www.cmutschler.de">Christopher Mutschler</a>
               <br>
-        <em>Applied Intelligence, Volume 25, Article 920, 2025. Springer Nature, Cham.</em>
+        <em>Applied Intelligence, Volume 55, Issue 13, Article 920, 2025. Springer.</em>
               <br>
         <!--<a href="https://www.youtube.com/watch?v=MCpC2i-ZbDs">demo video</a> /  -->
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
@@ -455,7 +455,7 @@ biomimetics_stop()
               <br>
         Emanuel Vega, José Lemus-Romani, Ricardo Soto, Broderick Crawford, <strong>Christoffer Löffler</strong>, Javier Peña, El-Gazhali Talbi
               <br>
-            <i>Biomimetics 2024, 9(2), 82; </i>
+            <i>Biomimetics, Volume 9, Issue 2, Article 82, 2024. MDPI.</i>
               <br>
         <a href="./pdfs/2024_biomimetics_autonomous_parameter_balance.pdf"> pdf </a> / <a href="https://doi.org/10.3390/biomimetics9020082">DOI: 10.3390/biomimetics9020082</a>
               <p></p>
@@ -688,7 +688,7 @@ tist_stop()
         <a href="https://www.mad.tf.fau.de/person/bjoern-eskofier/">Björn M. Eskofier</a>,			  
         <a href="https://www.cmutschler.de">Christopher Mutschler</a>
         <br>
-        <em>ACM Transactions on Intelligent Systems and Technology, Special Issue on Intelligent Trajectory Data Analytics, 02/2022</em>.
+        <em>ACM Transactions on Intelligent Systems and Technology, Special Issue on Intelligent Trajectory Data Analytics, Volume 13, Issue 1, pp. 1–23, 02/2022. ACM</em>.
         <br>
         <?php  $paperid="1616035621316005166";  include 'citation.php'; ?> 
         <a href="./pdfs/2022_acm_tist_deep_siamese.pdf">pdf</a> / 
@@ -819,7 +819,7 @@ demo_stop()
         <a href="https://www.mad.tf.fau.de/person/nicolas-witt/">Nicolas Witt</a>,
         <a href="https://www.cmutschler.de">Christopher Mutschler</a>
         <br>
-  <em>European Conf. on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), demo track</em>, 2020  
+  <em>European Conf. on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), demo track</em>, 2020. Springer LNCS, pp. 532–535  
         <br>
         <?php  $paperid="12553481028089192094";  include 'citation.php'; ?> 
 
@@ -906,7 +906,7 @@ hmd_stop()
         <a href="https://www.cmutschler.de">Christopher Mutschler</a>,
         <a href="https://www.ps.tf.fau.de/person/philippsen/">Michael Philippsen</a>
         <br>
-  <em>15th Intl. Conf. on Computer Graphics Theory and Applications (GRAPP)</em>, 2020  
+  <em>15th Intl. Conf. on Computer Graphics Theory and Applications (GRAPP)</em>, 2020. SCITEPRESS, pp. 307–318  
         <br>
         <?php  $paperid="8163049789733013846";  include 'citation.php'; ?> 
         <!--<a href="https://youtu.be/ZCTxPJPCfF0?t=20577">video</a> / 
@@ -1097,7 +1097,7 @@ simu_stop()
         <a href="https://www.researchgate.net/profile/Vitali_Schneider">Vitali Schneider</a>,
         <a href="https://www.cs7.tf.fau.de/person/german/">Reinhard German</a>
         <br>
-  <em>GI/ITG Intl. Conf. on Measurement, Modelling, and Evaluation of Computing Systems and Dependability and Fault Tolerance (MMB & DFT), best student paper award</em>, 2014  
+  <em>GI/ITG Intl. Conf. on Measurement, Modelling, and Evaluation of Computing Systems and Dependability and Fault Tolerance (MMB & DFT), best student paper award</em>, 2014. Springer LNCS, pp. 207–224  
         <br>
         <?php  $paperid="3556026464382987583";  include 'citation.php'; ?> 
         <!--<a href="data/cvpr2020.bib">bibtex</a> /-->
